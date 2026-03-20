@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Lidia.jpg" width="90"/> | **Landa Torres, Lidia** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/Lidia.jpg" width="90"/> | **Landa Torres, Lidia Desairi** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/Yenifer Loayza Pineda.jpeg" width="90"/> | **Loayza Pineda, Yenifer** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/pellanne-carlos.jpg" width="90"/> | **Pellanne Aro, Carlos** | Diseñador | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/gianella.jpeg" width="90"/> | **Benites Tena, Gianella** | Encargado de documentación | Comunicación científica, redacción técnica |

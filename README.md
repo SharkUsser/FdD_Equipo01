@@ -4,7 +4,7 @@
 
 ---
 
-## 🌍 Descripción del Equipo  
+- Descripción del Equipo  
 Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Desarrollar una solución tecnológica que mejore la gestión del agua y reduzca su contaminación, contribuyendo al cuidado del ambiente y los ecosistemas acuáticos. 
 

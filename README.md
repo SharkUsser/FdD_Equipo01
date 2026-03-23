@@ -7,7 +7,7 @@
 - Descripción del Equipo  
 Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.
 
-Nuestro objetivo es desarrollar una solución tecnológica basada en sensores que permita detectar y monitorear la contaminación por plásticos en cuerpos de agua, contribuyendo a la mejora de la gestión ambiental y la protección de los ecosistemas acuáticos.
+Nuestro objetivo es desarrollar una solución tecnológica basada en sensores que permitan detectar y monitorear la contaminación por plásticos en cuerpos de agua, contribuyendo a la mejora de la gestión ambiental y la protección de los ecosistemas acuáticos.
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**   
 - ODS 6: Agua Limpia y Saneamiento  

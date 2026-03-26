@@ -41,15 +41,19 @@ Como equipo, nos interesa abordar este problema desde una mirada preventiva, usa
 Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sostenible: 
 
 - **ODS 9: Industria, innovación e infraestructura**
+
   Promueve el uso de la tecnología y la innovación para resolver problemas, lo cual se refleja en el desarrollo de un sistema accesible basado en Arduino para monitorear la calidad del aire.
 
 - **ODS 11: Ciudades y comunidades sostenibles**
+
   Busca mejorar la calidad de vida en las ciudades reduciendo problemas como la contaminación del aire, y en este proyecto se aplica al monitorear las condiciones ambientales en entornos laborales de Lima para identificar riesgos y promover espacios más seguros.
 
 - **ODS 12: Producción y consumo responsables**
+
   Busca fomentar prácticas responsables que reduzcan el impacto ambiental, y en este proyecto se aplica al incentivar mejoras en las condiciones laborales y ambientales dentro de las empresas.
 
 - **ODS 13: Acción por el clima**
+
   Se enfoca en la acción frente al cambio climático, y en este proyecto se relaciona al generar conciencia sobre la contaminación del aire y su impacto en la salud de los trabajadores.
 
 ---

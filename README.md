@@ -67,13 +67,27 @@ Promueve conciencia sobre el impacto del aire contaminado
 
 ---
 
-## Problemática
+## ⚠️ Problemática
+En la ciudad de Lima, muchos trabajadores desarrollan sus actividades en espacios cerrados o con ventilación limitada, como talleres, almacenes, fábricas o incluso oficinas ubicadas en zonas con alta contaminación ambiental. En estos entornos, es común la presencia de contaminantes como polvo en suspensión, gases y partículas finas que pueden afectar la calidad del aire.
 
+Según el MINAM y el SENAMHI, durante el periodo de aislamiento por la pandemia se registraron niveles de PM2.5 de hasta 3 µg/m³, mientras que en condiciones normales estos valores aumentan significativamente debido a la actividad urbana. Además, en distritos de Lima Este y Lima Sur, como Ate y Villa María del Triunfo, se han registrado niveles de calidad del aire clasificados como insalubres, con altas concentraciones de partículas finas.
+
+El problema principal es que, a pesar de este contexto, **no existe un monitoreo constante dentro de los espacios laborales**, lo que impide conocer en tiempo real si las condiciones son seguras. Esto hace que los trabajadores estén expuestos a contaminantes que no siempre son visibles, pero que pueden generar enfermedades respiratorias y otros problemas a largo plazo.
+
+Frente a ello, surge la necesidad de contar con herramientas que permitan medir y visualizar la calidad del aire en los entornos de trabajo, facilitando la toma de decisiones para reducir riesgos.
 
 ---
 
-##
+## 📚 Enfoque y sustento
+La preocupación por la exposición de los trabajadores a contaminantes en el ambiente laboral no es un tema aislado, sino una problemática reconocida a nivel internacional.
 
+Según la Administración de Seguridad y Salud Ocupacional (OSHA), la inhalación de partículas como el polvo de sílice puede provocar enfermedades graves como la silicosis, una afección pulmonar incurable e incluso mortal. Estudios recientes han evidenciado casos en los que trabajadores expuestos a estos contaminantes han desarrollado complicaciones severas, incluyendo trasplantes de pulmón y fallecimientos.
+
+Asimismo, la exposición a partículas finas como el PM2.5 —presentes tanto en entornos industriales como urbanos— representa un riesgo significativo, ya que pueden ingresar a los pulmones e incluso al torrente sanguíneo, estando asociadas a enfermedades respiratorias, cardíacas y renales.
+
+Frente a este contexto, organismos internacionales destacan la importancia del monitoreo constante de la calidad del aire, el uso adecuado de equipos de protección y la implementación de medidas preventivas en los espacios de trabajo.
+
+En este sentido, el uso de tecnologías de monitoreo en tiempo real se presenta como una herramienta clave para identificar riesgos y mejorar las condiciones laborales a partir de datos concretos.
 
 ---
 

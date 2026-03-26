@@ -41,21 +41,29 @@ Como equipo, nos interesa abordar este problema desde una mirada preventiva, usa
 
 Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sostenible: 
 
-- 💧 **ODS 6: Agua limpia y saneamiento**
+- **ODS 9: Industria, innovación e infraestructura**
   
-Buscamos contribuir al monitoreo de la calidad del agua, identificando la presencia de contaminantes.
+Uso de tecnología (Arduino + sensores)
 
-- ⚡ **ODS 7: Energía accesible y no contaminante**
-  
-Consideramos el uso de energías limpias (como la energía solar) para que nuestro sistema sea sostenible.
+Desarrollo de soluciones accesibles e innovadoras
 
-- 🌱 **ODS 13: Acción por el clima**
+- **ODS 11: Ciudades y comunidades sostenibles**
   
-Reducir la contaminación plástica también es una forma de mitigar impactos ambientales a largo plazo.
+Relacionado con la contaminación del aire en entornos urbanos como Lima
 
-- 🌊 **ODS 14: Vida submarina**
+Busca mejorar la calidad de vida en las ciudades
+
+- **ODS 12: Producción y consumo responsables**
   
-Nuestro enfoque principal: proteger ecosistemas acuáticos afectados por residuos plásticos.
+Fomenta decisiones responsables dentro de empresas
+
+Relacionado con reducción de impacto ambiental
+
+- **ODS 13: Acción por el clima**
+  
+Conectado con la contaminación ambiental
+
+Promueve conciencia sobre el impacto del aire contaminado
 
 ---
 

@@ -115,5 +115,19 @@ Con este proyecto, buscamos visibilizarlos y proponer una solución que permita 
 
 ---
 
-## Referencias  
+## Referencias
 
+- Instituto Tecnológico Metropolitano. (s.f.). *ITM creó equipo para medir la calidad del aire en hogares u oficinas*.  
+  https://www.itm.edu.co/noticias-principales/itm-creo-equipo-para-medir-la-calidad-del-aire-en-hogares-u-oficinas/
+
+- Ministerio del Ambiente del Perú. (2019). *Calidad del aire de Lima presenta su valor más bajo en los últimos tres años*.  
+  https://www.gob.pe/institucion/minam/noticias/111659-calidad-del-aire-de-lima-presenta-su-valor-mas-bajo-en-los-ultimos-tres-anos
+
+- Ministerio del Ambiente del Perú. (2022). *En distritos de Lima Este y Lima Sur se registra incremento de contaminantes del aire*.  
+  https://www.gob.pe/institucion/minam/noticias/630541-en-distritos-de-lima-este-y-lima-sur-se-registra-incremento-de-contaminantes-del-aire
+
+- Occupational Safety and Health Administration (OSHA). (2023a). *OSHA National News Release*.  
+  https://www.osha.gov/news/newsreleases/osha-national-news-release/20230609
+
+- Occupational Safety and Health Administration (OSHA). (2023b). *OSHA National News Release*.  
+  https://www.osha.gov/news/newsreleases/osha-national-news-release/20230925

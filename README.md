@@ -99,7 +99,7 @@ Este sistema permitirá detectar en tiempo real los niveles de partículas en el
 De esta manera, se busca prevenir enfermedades respiratorias y mejorar las condiciones de trabajo mediante el uso de información clara y objetiva.
 
 <p align="center">
-<img width="1408" height="768" alt="ejemplo_prototipo" src="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Im%C3%A1genes/WhatsApp%20Image%202026-03-19%20at%2012.13.21%20PM.jpeg" />
+<img width="1408" height="768" alt="ejemplo_prototipo" src="Recursos/Imágenes/ejemplo_prototipo.jpg" />
   <em>**Fuente:** ITM (Instituto Tecnológico Metropolitano)</em>
 </p>
 

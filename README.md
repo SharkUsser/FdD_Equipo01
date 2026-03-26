@@ -38,14 +38,23 @@ Como equipo, nos interesa abordar este problema desde una mirada preventiva, usa
 ---
 
 ## 🎯 ODS en los que nos enfocamos:
+
 Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sostenible: 
+
 - 💧 **ODS 6: Agua limpia y saneamiento**
+  
 Buscamos contribuir al monitoreo de la calidad del agua, identificando la presencia de contaminantes.
+
 - ⚡ **ODS 7: Energía accesible y no contaminante**
+  
 Consideramos el uso de energías limpias (como la energía solar) para que nuestro sistema sea sostenible.
+
 - 🌱 **ODS 13: Acción por el clima**
+  
 Reducir la contaminación plástica también es una forma de mitigar impactos ambientales a largo plazo.
+
 - 🌊 **ODS 14: Vida submarina**
+  
 Nuestro enfoque principal: proteger ecosistemas acuáticos afectados por residuos plásticos.
 
 ---

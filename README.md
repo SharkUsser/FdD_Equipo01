@@ -37,37 +37,24 @@ Como equipo, nos interesa abordar este problema desde una mirada preventiva, usa
 
 ---
 
-## 🎯 ODS en los que nos enfocamos:
-
+## ODS en los que nos enfocamos:
 Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sostenible: 
 
 - **ODS 9: Industria, innovación e infraestructura**
-  
-Uso de tecnología (Arduino + sensores)
-
-Desarrollo de soluciones accesibles e innovadoras
+  Promueve el uso de la tecnología y la innovación para resolver problemas, lo cual se refleja en el desarrollo de un sistema accesible basado en Arduino para monitorear la calidad del aire.
 
 - **ODS 11: Ciudades y comunidades sostenibles**
-  
-Relacionado con la contaminación del aire en entornos urbanos como Lima
-
-Busca mejorar la calidad de vida en las ciudades
+  Busca mejorar la calidad de vida en las ciudades reduciendo problemas como la contaminación del aire, y en este proyecto se aplica al monitorear las condiciones ambientales en entornos laborales de Lima para identificar riesgos y promover espacios más seguros.
 
 - **ODS 12: Producción y consumo responsables**
-  
-Fomenta decisiones responsables dentro de empresas
-
-Relacionado con reducción de impacto ambiental
+  Busca fomentar prácticas responsables que reduzcan el impacto ambiental, y en este proyecto se aplica al incentivar mejoras en las condiciones laborales y ambientales dentro de las empresas.
 
 - **ODS 13: Acción por el clima**
-  
-Conectado con la contaminación ambiental
-
-Promueve conciencia sobre el impacto del aire contaminado
+  Se enfoca en la acción frente al cambio climático, y en este proyecto se relaciona al generar conciencia sobre la contaminación del aire y su impacto en la salud de los trabajadores.
 
 ---
 
-## ⚠️ Problemática
+## Problemática
 En la ciudad de Lima, muchos trabajadores desarrollan sus actividades en espacios cerrados o con ventilación limitada, como talleres, almacenes, fábricas o incluso oficinas ubicadas en zonas con alta contaminación ambiental. En estos entornos, es común la presencia de contaminantes como polvo en suspensión, gases y partículas finas que pueden afectar la calidad del aire.
 
 Según el MINAM y el SENAMHI, durante el periodo de aislamiento por la pandemia se registraron niveles de PM2.5 de hasta 3 µg/m³, mientras que en condiciones normales estos valores aumentan significativamente debido a la actividad urbana. Además, en distritos de Lima Este y Lima Sur, como Ate y Villa María del Triunfo, se han registrado niveles de calidad del aire clasificados como insalubres, con altas concentraciones de partículas finas.
@@ -78,7 +65,7 @@ Frente a ello, surge la necesidad de contar con herramientas que permitan medir 
 
 ---
 
-## 📚 Enfoque y sustento
+## Enfoque y sustento
 La preocupación por la exposición de los trabajadores a contaminantes en el ambiente laboral no es un tema aislado, sino una problemática reconocida a nivel internacional.
 
 Según la Administración de Seguridad y Salud Ocupacional (OSHA), la inhalación de partículas como el polvo de sílice puede provocar enfermedades graves como la silicosis, una afección pulmonar incurable e incluso mortal. Estudios recientes han evidenciado casos en los que trabajadores expuestos a estos contaminantes han desarrollado complicaciones severas, incluyendo trasplantes de pulmón y fallecimientos.
@@ -91,7 +78,7 @@ En este sentido, el uso de tecnologías de monitoreo en tiempo real se presenta 
 
 ---
 
-## 💡 Nuestra propuesta
+## Nuestra propuesta
 Nuestra propuesta consiste en crear un dispositivo tecnológico automático que permita monitorear la calidad de aire en un ambiente laboral, detectaremos el material particulado fino (PM2.5) mediante el uso de un sensor PMS5003 Particulate Matter Sensor. 
 
 Este sistema permitirá detectar en tiempo real los niveles de partículas en el aire y generar alertas cuando representen un riesgo para la salud. 
@@ -99,16 +86,22 @@ Este sistema permitirá detectar en tiempo real los niveles de partículas en el
 De esta manera, se busca prevenir enfermedades respiratorias y mejorar las condiciones de trabajo mediante el uso de información clara y objetiva.
 
 <p align="center">
-<img width="1408" height="768" alt="ejemplo_prototipo" src="Recursos/Imágenes/ejemplo_prototipo.jpg" />
-  <em>**Fuente:** ITM (Instituto Tecnológico Metropolitano)</em>
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Im%C3%A1genes/WhatsApp%20Image%202026-03-19%20at%2012.13.21%20PM.jpeg" />
+  <em>Fuente: ITM (Instituto Tecnológico Metropolitano)</em>
 </p>
 
 El prototipo estará instalado dentro de un espacio laboral encargado de medir la calidad del aire. Este sistema incluye:
 - Un sensor de material particulado PMS5003 Particulate Matter Sensor para medir PM2.5
 - Indicadores visuales que alerten cuando los niveles sean peligrosos
 - Un sistema básico de visualización de datos (pantalla o conexión a una app)
-
 El dispositivo permitirá monitorear el ambiente en tiempo real y advertir sobre posibles riesgos para la salud.
+
+---
+## ¿Qué haríamos con la información?
+Identificar si el ambiente laboral es seguro o si existe un riesgo para la salud de los trabajadores. Además, ayudará a tomar decisiones de manera oportuna, como mejorar la ventilación, ajustar las condiciones del espacio o reforzar el uso de equipos de protección, contribuyendo así a la  mejora continua de las condiciones laborales. 
+
+La idea es transformar datos en decisiones que realmente protejan a los trabajadores.
+
 ---
 
 ## Reflexión final

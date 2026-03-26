@@ -90,13 +90,17 @@ De esta manera, se busca prevenir enfermedades respiratorias y mejorar las condi
   <em>Fuente: ITM (Instituto Tecnológico Metropolitano)</em>
 </p>
 
-El prototipo estará instalado dentro de un espacio laboral encargado de medir la calidad del aire. Este sistema incluye:
+El prototipo estará instalado dentro de un espacio laboral encargado de medir la calidad del aire. 
+
+Este sistema incluye:
 - Un sensor de material particulado PMS5003 Particulate Matter Sensor para medir PM2.5
 - Indicadores visuales que alerten cuando los niveles sean peligrosos
 - Un sistema básico de visualización de datos (pantalla o conexión a una app)
+
 El dispositivo permitirá monitorear el ambiente en tiempo real y advertir sobre posibles riesgos para la salud.
 
 ---
+
 ## ¿Qué haríamos con la información?
 Identificar si el ambiente laboral es seguro o si existe un riesgo para la salud de los trabajadores. Además, ayudará a tomar decisiones de manera oportuna, como mejorar la ventilación, ajustar las condiciones del espacio o reforzar el uso de equipos de protección, contribuyendo así a la  mejora continua de las condiciones laborales. 
 
@@ -111,5 +115,5 @@ Con este proyecto, buscamos visibilizarlos y proponer una solución que permita 
 
 ---
 
-## 📌 Resumen Final  
-Este README presenta quiénes somos, qué problema buscamos abordar y cómo estamos desarrollando una propuesta que combina tecnología, salud y sostenibilidad en el contexto laboral peruano. 
+## Referencias  
+

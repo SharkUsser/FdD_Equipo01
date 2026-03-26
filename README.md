@@ -91,6 +91,26 @@ En este sentido, el uso de tecnologías de monitoreo en tiempo real se presenta 
 
 ---
 
+## 💡 Nuestra propuesta
+Nuestra propuesta consiste en crear un dispositivo tecnológico automático que permita monitorear la calidad de aire en un ambiente laboral, detectaremos el material particulado fino (PM2.5) mediante el uso de un sensor PMS5003 Particulate Matter Sensor. 
+
+Este sistema permitirá detectar en tiempo real los niveles de partículas en el aire y generar alertas cuando representen un riesgo para la salud. 
+
+De esta manera, se busca prevenir enfermedades respiratorias y mejorar las condiciones de trabajo mediante el uso de información clara y objetiva.
+
+<p align="center">
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Im%C3%A1genes/WhatsApp%20Image%202026-03-19%20at%2012.13.21%20PM.jpeg" />
+  <em>**Fuente:** ITM (Instituto Tecnológico Metropolitano)</em>
+</p>
+
+El prototipo estará instalado dentro de un espacio laboral encargado de medir la calidad del aire. Este sistema incluye:
+- Un sensor de material particulado PMS5003 Particulate Matter Sensor para medir PM2.5
+- Indicadores visuales que alerten cuando los niveles sean peligrosos
+- Un sistema básico de visualización de datos (pantalla o conexión a una app)
+
+El dispositivo permitirá monitorear el ambiente en tiempo real y advertir sobre posibles riesgos para la salud.
+---
+
 ## Reflexión final
 Creemos que muchas veces los problemas ambientales dentro de espacios laborales pasan desapercibidos.
 

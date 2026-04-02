@@ -158,4 +158,6 @@ Con este proyecto, buscamos visibilizarlos y proponer una solución que permita 
 ---
 
 ## 📌 Resumen Final
-El presente README describe la conformación del equipo, la problemática abordada y la propuesta de solución desarrollada en el marco del curso Fundamentos de Diseño. El proyecto se enfoca en el uso ineficiente del agua en el riego agrícola debido a la falta de monitoreo preciso de las condiciones del suelo, especialmente en zonas como Huaral. En este contexto, se plantea el desarrollo de una solución tecnológica orientada al monitoreo de las propiedades del suelo, con el fin de optimizar el uso del agua de riego y mejorar la productividad agrícola. Esta propuesta busca integrar sostenibilidad, tecnología e innovación, contribuyendo a una gestión más eficiente de los recursos y a una agricultura más responsable.
+El presente README describe la conformación del equipo, la problemática abordada y la propuesta de solución desarrollada en el marco del curso Fundamentos de Diseño. El proyecto se enfoca en el uso ineficiente del agua en el riego agrícola debido a la falta de monitoreo preciso de las condiciones del suelo, especialmente en zonas como Huaral. 
+
+En este contexto, se plantea el desarrollo de una solución tecnológica orientada al monitoreo de las propiedades del suelo, con el fin de optimizar el uso del agua de riego y mejorar la productividad agrícola. Esta propuesta busca integrar sostenibilidad, tecnología e innovación, contribuyendo a una gestión más eficiente de los recursos y a una agricultura más responsable.

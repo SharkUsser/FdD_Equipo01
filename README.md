@@ -28,14 +28,14 @@ Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemá
 
 ---
 
-## 🤔¿Por qué este proyecto?
+## 🤔¿Por qué este proyecto? ❓
 La región de Lima, particularmente en la Estación Experimental Agraria Donoso, ubicada en el distrito de Donoso, provincia de Huaral, presenta condiciones agrícolas complejas asociadas al clima árido, baja precipitación y suelos con limitaciones de fertilidad. En este contexto, el uso del agua para riego se convierte en un factor crítico para la producción agrícola .
 
 Sin embargo, en esta zona se evidencia un problema importante: el uso ineficiente del agua debido a la falta de control de las condiciones del suelo. Esto genera desperdicio hídrico y, a su vez, provoca efectos negativos como el incremento de la salinidad, la degradación del suelo y la disminución del rendimiento de los cultivos.
 
 Como grupo, nos motivó trabajar en una problemática real que afecta directamente a los agricultores de la costa peruana, donde el agua es un recurso limitado. Además, identificamos que, a pesar de contar con información técnica sobre el suelo, no siempre se aplica un monitoreo adecuado que permita optimizar el riego según las condiciones específicas de cada punto.
 
-En este contexto, el proyecto propone el análisis de un punto específico dentro de la EEA Donoso mediante herramientas tecnológicas como un sensor que monitorea la calidad del suelo y ayuda al agricultor a obtener una mejor producción sin descuidar la importancia del cuidado del agua, con el fin de mejorar la toma de decisiones en el riego 💧. Esta propuesta integra ingeniería, sostenibilidad y tecnología, orientándose a soluciones adaptadas a la realidad agrícola local y alineadas con los Objetivos de Desarrollo Sostenible (ODS). 🔝
+En este contexto, el proyecto propone el análisis de un punto específico dentro de la EEA Donoso mediante herramientas tecnológicas como un sensor de humedad que puede determinar la cantidad de agua que necesita el cultivo en especifico emitiendo alertas cuando este ya haya llegado a su riego ótimo, con el fin de mejorar la toma de decisiones en el riego y evitar el consumo innecesario de agua en los cultivos 💧. Esta propuesta integra ingeniería, sostenibilidad y tecnología, orientándose a soluciones adaptadas a la realidad agrícola local y alineadas con los Objetivos de Desarrollo Sostenible (ODS). 🔝
 
 ---
 
@@ -77,16 +77,19 @@ Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sosteni
 
 ---
 
-## Enfoque y sustento
-La preocupación por la exposición de los trabajadores a contaminantes en el ambiente laboral no es un tema aislado, sino una problemática reconocida a nivel internacional.
+## ☝ Enfoque y sustento 💡
+El presente proyecto es relevante porque aborda de manera directa la relación entre el uso del agua de riego y la calidad del suelo en la Estación Experimental Agraria Donoso, un entorno representativo de las condiciones agrícolas de la costa peruana. La falta de control del suelo genera un uso ineficiente del recurso hídrico, lo cual no solo implica desperdicio de agua, sino también un deterioro progresivo de las propiedades del suelo.
 
-Según la Administración de Seguridad y Salud Ocupacional (OSHA), la inhalación de partículas como el polvo de sílice puede provocar enfermedades graves como la silicosis, una afección pulmonar incurable e incluso mortal. Estudios recientes han evidenciado casos en los que trabajadores expuestos a estos contaminantes han desarrollado complicaciones severas, incluyendo trasplantes de pulmón y fallecimientos.
+El proyecto beneficia principalmente a los agricultores de la provincia de Huaral y a otros contextos agrícolas similares, ya que permite mejorar la toma de decisiones mediante el análisis específico del suelo. Esto facilita la implementación de prácticas de riego más precisas, reduciendo costos, optimizando recursos y aumentando la productividad. 🥳
 
-Asimismo, la exposición a partículas finas como el PM2.5 —presentes tanto en entornos industriales como urbanos— representa un riesgo significativo, ya que pueden ingresar a los pulmones e incluso al torrente sanguíneo, estando asociadas a enfermedades respiratorias, cardíacas y renales.
+El impacto de la problemática es significativo y multidimensional. A nivel ambiental, el exceso de riego favorece la acumulación de sales en el suelo, lo cual se evidencia en la alta variabilidad de la conductividad eléctrica (coeficiente de variación superior al 100%), indicando problemas de salinidad en zonas puntuales . Asimismo, el bajo contenido de materia orgánica (1.62%) limita la capacidad del suelo para retener agua, incrementando el desperdicio hídrico y acelerando su degradación .
 
-Frente a este contexto, organismos internacionales destacan la importancia del monitoreo constante de la calidad del aire, el uso adecuado de equipos de protección y la implementación de medidas preventivas en los espacios de trabajo.
+A nivel social, esta problemática afecta la estabilidad de la producción agrícola y, por ende, la seguridad alimentaria de las comunidades. A nivel económico, genera mayores costos operativos debido al uso ineficiente del agua y la reducción en el rendimiento de los cultivos.
 
-En este sentido, el uso de tecnologías de monitoreo en tiempo real se presenta como una herramienta clave para identificar riesgos y mejorar las condiciones laborales a partir de datos concretos.
+El sustento del proyecto se basa en el análisis de datos reales que evidencian una alta heterogeneidad del suelo en la EEA Donoso, con presencia de salinidad localizada, desbalances químicos y limitaciones en la fertilidad . Frente a ello, el uso de herramientas como la geoestadística y los sistemas de información geográfica permite identificar patrones espaciales y diseñar estrategias de manejo específicas por punto.
+
+En este sentido, el proyecto adopta un enfoque acotado y preciso, centrado en el análisis de un punto específico del terreno, lo que facilita su implementación y refuerza su validez investigativa. Así, se propone una solución integral que combina tecnología, sostenibilidad y análisis científico, contribuyendo a un manejo más eficiente del riego y a la conservación del suelo. 😎
+
 
 ---
 

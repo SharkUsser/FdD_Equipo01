@@ -35,7 +35,7 @@ Sin embargo, en esta zona se evidencia un problema importante: el uso ineficient
 
 Como grupo, nos motivó trabajar en una problemática real que afecta directamente a los agricultores de la costa peruana, donde el agua es un recurso limitado. Además, identificamos que, a pesar de contar con información técnica sobre el suelo, no siempre se aplica un monitoreo adecuado que permita optimizar el riego según las condiciones específicas de cada punto.
 
-En este contexto, el proyecto propone el análisis de un punto específico dentro de la EEA Donoso mediante herramientas tecnológicas, con el fin de mejorar la toma de decisiones en el riego. Esta propuesta integra ingeniería, sostenibilidad y tecnología, orientándose a soluciones adaptadas a la realidad agrícola local y alineadas con los Objetivos de Desarrollo Sostenible (ODS).
+En este contexto, el proyecto propone el análisis de un punto específico dentro de la EEA Donoso mediante herramientas tecnológicas como un sensor que monitorea la calidad del suelo y ayuda al agricultor a obtener una mejor producción sin descuidar la importancia del cuidado del agua, con el fin de mejorar la toma de decisiones en el riego 💧. Esta propuesta integra ingeniería, sostenibilidad y tecnología, orientándose a soluciones adaptadas a la realidad agrícola local y alineadas con los Objetivos de Desarrollo Sostenible (ODS). 🔝
 
 ---
 

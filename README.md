@@ -28,14 +28,15 @@ Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemá
 
 ---
 
-## ¿Por qué este proyecto?
+## 🤔¿Por qué este proyecto?
 La región de Lima, particularmente en la Estación Experimental Agraria Donoso, ubicada en el distrito de Donoso, provincia de Huaral, presenta condiciones agrícolas complejas asociadas al clima árido, baja precipitación y suelos con limitaciones de fertilidad. En este contexto, el uso del agua para riego se convierte en un factor crítico para la producción agrícola .
 
 Sin embargo, en esta zona se evidencia un problema importante: el uso ineficiente del agua debido a la falta de control de las condiciones del suelo. Esto genera desperdicio hídrico y, a su vez, provoca efectos negativos como el incremento de la salinidad, la degradación del suelo y la disminución del rendimiento de los cultivos.
 
 Como grupo, nos motivó trabajar en una problemática real que afecta directamente a los agricultores de la costa peruana, donde el agua es un recurso limitado. Además, identificamos que, a pesar de contar con información técnica sobre el suelo, no siempre se aplica un monitoreo adecuado que permita optimizar el riego según las condiciones específicas de cada punto.
 
-En este contexto, el proyecto propone el análisis de un punto específico dentro de la EEA Donoso mediante herramientas tecnológicas (como GitHub y análisis geoespacial), con el fin de mejorar la toma de decisiones en el riego. Esta propuesta integra ingeniería, sostenibilidad y tecnología, orientándose a soluciones adaptadas a la realidad agrícola local y alineadas con los Objetivos de Desarrollo Sostenible (ODS).
+En este contexto, el proyecto propone el análisis de un punto específico dentro de la EEA Donoso mediante herramientas tecnológicas, con el fin de mejorar la toma de decisiones en el riego. Esta propuesta integra ingeniería, sostenibilidad y tecnología, orientándose a soluciones adaptadas a la realidad agrícola local y alineadas con los Objetivos de Desarrollo Sostenible (ODS).
+
 ---
 
 ## Problemática

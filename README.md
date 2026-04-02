@@ -5,9 +5,9 @@
 ---
 
 ## Sobre nosotros:  
-Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.
+Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de las carreras de Ingeniería Ambiental, Informática e Industrial. 
 
-Nuestro objetivo es desarrollar soluciones que conecten la tecnología con problemas reales del entorno laboral y ambiental en el Perú. Buscamos generar propuestas que no solo sean innovadoras, sino también aplicables en contextos reales.
+Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemáticas reales del sector agrícola en el Perú, específicamente relacionadas con el uso eficiente del agua y el manejo del suelo. A través de este proyecto, buscamos proponer alternativas innovadoras que permitan mejorar el monitoreo de las condiciones del suelo, optimizar el riego y contribuir a una agricultura más sostenible y productiva.
 
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Im%C3%A1genes/WhatsApp%20Image%202026-03-19%20at%2012.13.21%20PM.jpeg" />
@@ -59,13 +59,15 @@ Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sosteni
 ---
 
 ## Problemática
-En la ciudad de Lima, muchos trabajadores desarrollan sus actividades en espacios cerrados o con ventilación limitada, como talleres, almacenes, fábricas o incluso oficinas ubicadas en zonas con alta contaminación ambiental. En estos entornos, es común la presencia de contaminantes como polvo en suspensión, gases y partículas finas que pueden afectar la calidad del aire.
+En el Perú, especialmente en la costa como Lima, la actividad agrícola se desarrolla en condiciones de limitada disponibilidad hídrica, lo que hace indispensable un uso eficiente del agua de riego. No obstante, en la práctica, este recurso no siempre se gestiona adecuadamente debido a la falta de monitoreo preciso de las condiciones del suelo, lo que dificulta la toma de decisiones informadas en el manejo agrícola.
 
-Según el MINAM y el SENAMHI, durante el periodo de aislamiento por la pandemia se registraron niveles de PM2.5 de hasta 3 µg/m³, mientras que en condiciones normales estos valores aumentan significativamente debido a la actividad urbana. Además, en distritos de Lima Este y Lima Sur, como Ate y Villa María del Triunfo, se han registrado niveles de calidad del aire clasificados como insalubres, con altas concentraciones de partículas finas.
+Esta situación se evidencia con mayor claridad en la provincia de Huaral, donde se ubica la Estación Experimental Agraria Donoso. En esta zona, los suelos presentan una alta variabilidad en sus propiedades físicas y químicas, incluyendo baja materia orgánica, textura arenosa, pH ligeramente alcalino y presencia de salinidad y sodicidad en determinadas áreas, lo que condiciona la disponibilidad de nutrientes y la retención de humedad (INIA, 2026) . Estas características requieren un manejo diferenciado que actualmente no se aplica de manera adecuada.
 
-El problema principal es que, a pesar de este contexto, **no existe un monitoreo constante dentro de los espacios laborales**, lo que impide conocer en tiempo real si las condiciones son seguras. Esto hace que los trabajadores estén expuestos a contaminantes que no siempre son visibles, pero que pueden generar enfermedades respiratorias y otros problemas a largo plazo.
+Actualmente, el manejo del riego se basa en métodos tradicionales que consideran valores promedio del suelo, sin tomar en cuenta la variabilidad existente dentro del terreno. Como consecuencia, se aplican cantidades de agua que no responden a las necesidades reales del cultivo ni a las condiciones específicas del suelo, generando un uso ineficiente del recurso hídrico.
 
-Frente a ello, surge la necesidad de contar con herramientas que permitan medir y visualizar la calidad del aire en los entornos de trabajo, facilitando la toma de decisiones para reducir riesgos.
+Diversos estudios han demostrado que un manejo inadecuado del riego puede provocar la acumulación de agua en el suelo, el aumento del nivel freático y procesos de salinización, debido a que el agua al evaporarse deja sales en el suelo, afectando directamente el crecimiento de los cultivos (Isidoro, 2011) . Asimismo, el exceso de riego y la falta de drenaje adecuado favorecen la degradación del suelo, reduciendo su capacidad productiva e incluso provocando el abandono de tierras agrícolas en diferentes regiones (Isidoro, 2011) .
+
+En consecuencia, la ausencia de herramientas que permitan monitorear de manera precisa las condiciones del suelo y optimizar el uso del agua de riego en zonas como Huaral genera desperdicio de recursos, deterioro del suelo y una disminución en la productividad agrícola, comprometiendo la sostenibilidad de esta actividad en el tiempo.
 
 ---
 
@@ -121,11 +123,11 @@ Con este proyecto, buscamos visibilizarlos y proponer una solución que permita 
 
 ## Referencias
 
-- Instituto Tecnológico Metropolitano. (s.f.). *ITM creó equipo para medir la calidad del aire en hogares u oficinas*.  
-  https://www.itm.edu.co/noticias-principales/itm-creo-equipo-para-medir-la-calidad-del-aire-en-hogares-u-oficinas/
+- Instituto Nacional de Innovación Agraria (INIA). (2026). *Evaluación de la fertilidad de suelos en la Estación Experimental Agraria Donoso*.  
+  http://hdl.handle.net/20.500.12955/3064
 
-- Ministerio del Ambiente del Perú. (2019). *Calidad del aire de Lima presenta su valor más bajo en los últimos tres años*.  
-  https://www.gob.pe/institucion/minam/noticias/111659-calidad-del-aire-de-lima-presenta-su-valor-mas-bajo-en-los-ultimos-tres-anos
+- Isidoro, D. (2011). *Minimización de impactos en la agricultura de regadío. Riegos del Alto Aragón*.  
+  http://hdl.handle.net/10532/1606
 
 - Ministerio del Ambiente del Perú. (2022). *En distritos de Lima Este y Lima Sur se registra incremento de contaminantes del aire*.  
   https://www.gob.pe/institucion/minam/noticias/630541-en-distritos-de-lima-este-y-lima-sur-se-registra-incremento-de-contaminantes-del-aire

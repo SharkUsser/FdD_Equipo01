@@ -37,6 +37,23 @@ Como equipo, nos interesa abordar este problema desde una mirada preventiva, usa
 
 ---
 
+## Problemática
+En el Perú, especialmente en la costa como Lima, la actividad agrícola se desarrolla en condiciones de limitada disponibilidad hídrica, lo que hace indispensable un uso eficiente del agua de riego. No obstante, en la práctica, este recurso no siempre se gestiona adecuadamente debido a la falta de monitoreo preciso de las condiciones del suelo, lo que dificulta la toma de decisiones informadas en el manejo agrícola.
+
+Esta situación se evidencia con mayor claridad en la provincia de Huaral, donde se ubica la Estación Experimental Agraria Donoso. En esta zona, los suelos presentan una alta variabilidad en sus propiedades físicas y químicas, incluyendo baja materia orgánica, textura arenosa, pH ligeramente alcalino y presencia de salinidad y sodicidad en determinadas áreas, lo que condiciona la disponibilidad de nutrientes y la retención de humedad (INIA, 2026) . Estas características requieren un manejo diferenciado que actualmente no se aplica de manera adecuada.
+
+Actualmente, el manejo del riego se basa en métodos tradicionales que consideran valores promedio del suelo, sin tomar en cuenta la variabilidad existente dentro del terreno. Como consecuencia, se aplican cantidades de agua que no responden a las necesidades reales del cultivo ni a las condiciones específicas del suelo, generando un uso ineficiente del recurso hídrico.
+
+Diversos estudios han demostrado que un manejo inadecuado del riego puede provocar la acumulación de agua en el suelo, el aumento del nivel freático y procesos de salinización, debido a que el agua al evaporarse deja sales en el suelo, afectando directamente el crecimiento de los cultivos (Isidoro, 2011) . Asimismo, el exceso de riego y la falta de drenaje adecuado favorecen la degradación del suelo, reduciendo su capacidad productiva e incluso provocando el abandono de tierras agrícolas en diferentes regiones (Isidoro, 2011) .
+
+En consecuencia, la ausencia de herramientas que permitan monitorear de manera precisa las condiciones del suelo y optimizar el uso del agua de riego en zonas como Huaral genera desperdicio de recursos, deterioro del suelo y una disminución en la productividad agrícola, comprometiendo la sostenibilidad de esta actividad en el tiempo.
+
+---
+
+## Objetivos:
+
+---
+
 ## ODS en los que nos enfocamos:
 Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sostenible: 
 
@@ -55,19 +72,6 @@ Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sosteni
 - **ODS 13: Acción por el clima**
 
   Se enfoca en la acción frente al cambio climático, y en este proyecto se relaciona al generar conciencia sobre la contaminación del aire y su impacto en la salud de los trabajadores.
-
----
-
-## Problemática
-En el Perú, especialmente en la costa como Lima, la actividad agrícola se desarrolla en condiciones de limitada disponibilidad hídrica, lo que hace indispensable un uso eficiente del agua de riego. No obstante, en la práctica, este recurso no siempre se gestiona adecuadamente debido a la falta de monitoreo preciso de las condiciones del suelo, lo que dificulta la toma de decisiones informadas en el manejo agrícola.
-
-Esta situación se evidencia con mayor claridad en la provincia de Huaral, donde se ubica la Estación Experimental Agraria Donoso. En esta zona, los suelos presentan una alta variabilidad en sus propiedades físicas y químicas, incluyendo baja materia orgánica, textura arenosa, pH ligeramente alcalino y presencia de salinidad y sodicidad en determinadas áreas, lo que condiciona la disponibilidad de nutrientes y la retención de humedad (INIA, 2026) . Estas características requieren un manejo diferenciado que actualmente no se aplica de manera adecuada.
-
-Actualmente, el manejo del riego se basa en métodos tradicionales que consideran valores promedio del suelo, sin tomar en cuenta la variabilidad existente dentro del terreno. Como consecuencia, se aplican cantidades de agua que no responden a las necesidades reales del cultivo ni a las condiciones específicas del suelo, generando un uso ineficiente del recurso hídrico.
-
-Diversos estudios han demostrado que un manejo inadecuado del riego puede provocar la acumulación de agua en el suelo, el aumento del nivel freático y procesos de salinización, debido a que el agua al evaporarse deja sales en el suelo, afectando directamente el crecimiento de los cultivos (Isidoro, 2011) . Asimismo, el exceso de riego y la falta de drenaje adecuado favorecen la degradación del suelo, reduciendo su capacidad productiva e incluso provocando el abandono de tierras agrícolas en diferentes regiones (Isidoro, 2011) .
-
-En consecuencia, la ausencia de herramientas que permitan monitorear de manera precisa las condiciones del suelo y optimizar el uso del agua de riego en zonas como Huaral genera desperdicio de recursos, deterioro del suelo y una disminución en la productividad agrícola, comprometiendo la sostenibilidad de esta actividad en el tiempo.
 
 ---
 
@@ -114,7 +118,20 @@ La idea es transformar datos en decisiones que realmente protejan a los trabajad
 
 ---
 
-## Reflexión final
+## Alcence
+
+---
+
+## Conclusión
+El análisis del riego agrícola en la costa peruana, específicamente en Huaral, evidencia que la falta de monitoreo detallado del suelo limita significativamente la eficiencia en el uso del agua y el manejo adecuado de los cultivos. La variabilidad de las propiedades del suelo, como la salinidad, la baja materia orgánica y la capacidad de retención de humedad, requiere estrategias más precisas que las actualmente empleadas.
+
+El uso de métodos tradicionales basados en promedios no permite responder a las necesidades específicas de cada zona del terreno, lo que genera un uso ineficiente del agua y contribuye a la degradación del suelo y a la disminución de la productividad agrícola. Esta situación pone en evidencia la necesidad de implementar soluciones que permitan obtener información más precisa y en tiempo real sobre las condiciones del suelo.
+
+En este contexto, se plantea como alternativa el desarrollo de una solución tecnológica orientada al monitoreo del suelo y la optimización del riego, la cual será definida en función de los aportes del equipo en las siguientes etapas del proyecto. Esta propuesta buscará mejorar la toma de decisiones en el manejo agrícola, promoviendo un uso más eficiente de los recursos y contribuyendo a la sostenibilidad del sistema productivo.
+
+---
+
+## Reflexión
 Creemos que muchas veces los problemas ambientales dentro de espacios laborales pasan desapercibidos.
 
 Con este proyecto, buscamos visibilizarlos y proponer una solución que permita actuar a tiempo, antes de que los efectos sean más graves.
@@ -137,3 +154,8 @@ Con este proyecto, buscamos visibilizarlos y proponer una solución que permita 
 
 - Occupational Safety and Health Administration (OSHA). (2023b). *OSHA National News Release*.  
   https://www.osha.gov/news/newsreleases/osha-national-news-release/20230925
+
+---
+
+## 📌 Resumen Final
+El presente README describe la conformación del equipo, la problemática abordada y la propuesta de solución desarrollada en el marco del curso Fundamentos de Diseño. El proyecto se enfoca en el uso ineficiente del agua en el riego agrícola debido a la falta de monitoreo preciso de las condiciones del suelo, especialmente en zonas como Huaral. En este contexto, se plantea el desarrollo de una solución tecnológica orientada al monitoreo de las propiedades del suelo, con el fin de optimizar el uso del agua de riego y mejorar la productividad agrícola. Esta propuesta busca integrar sostenibilidad, tecnología e innovación, contribuyendo a una gestión más eficiente de los recursos y a una agricultura más responsable.

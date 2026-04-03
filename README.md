@@ -66,23 +66,25 @@ Objetivos específicos:
 ---
 
 ## ODS en los que nos enfocamos:
-Nuestro proyecto se relaciona con los siguientes Objetivos de Desarrollo Sostenible: 
 
-- **ODS 9: Industria, innovación e infraestructura**
+Los Objetivos de Desarrollo Sostenible (ODS) son una iniciativa de la Organización de las Naciones Unidas orientada a abordar los principales desafíos globales como la pobreza, el cambio climático, la degradación ambiental y el acceso equitativo a recursos. Este proyecto se alinea de manera directa con varios de estos objetivos, al integrar tecnología avanzada en la gestión agrícola sostenible:
 
-  Promueve el uso de la tecnología y la innovación para resolver problemas, lo cual se refleja en el desarrollo de un sistema accesible basado en Arduino para monitorear la calidad del aire.
+ODS 6: Agua Limpia y Saneamiento
+• Definición: Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.
+• Relación: El proyecto contribuye a una gestión más eficiente del agua en la agricultura, que es el sector con mayor consumo hídrico a nivel mundial. Mediante el uso de sensores de humedad y sistemas automatizados, se evita el riego innecesario, se reduce la sobreexplotación de fuentes hídricas y se promueve el uso racional del recurso. Además, ayuda a prevenir la contaminación del agua causada por el exceso de fertilizantes y lixiviación.
 
-- **ODS 11: Ciudades y comunidades sostenibles**
+ODS 9: Industria, Innovación e Infraestructura
+• Definición: Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación.
+• Relación: Este proyecto introduce tecnologías emergentes como el Internet de las Cosas (IoT) y el Deep Learning en el sector agrícola, especialmente en zonas rurales donde el acceso a estas herramientas es limitado. Esto no solo moderniza las prácticas agrícolas, sino que también impulsa la digitalización del campo, mejora la productividad y fortalece la competitividad del sector agroindustrial.
 
-  Busca mejorar la calidad de vida en las ciudades reduciendo problemas como la contaminación del aire, y en este proyecto se aplica al monitorear las condiciones ambientales en entornos laborales de Lima para identificar riesgos y promover espacios más seguros.
+ODS 12: Producción y Consumo Responsables
+• Definición: Garantizar modalidades de consumo y producción sostenibles.
+• Relación: La implementación de sensores y análisis inteligente permite optimizar el uso de recursos como el agua, fertilizantes y pesticidas, reduciendo desperdicios y minimizando impactos negativos en el medio ambiente. Esto contribuye a una agricultura más eficiente, con menor huella hídrica y menor contaminación del suelo, promoviendo prácticas responsables a lo largo de toda la cadena productiva.
 
-- **ODS 12: Producción y consumo responsables**
+ODS 15: Vida de Ecosistemas Terrestres
+• Definición: Proteger, restaurar y promover el uso sostenible de los ecosistemas terrestres.
+• Relación: El proyecto combate procesos de degradación del suelo como la salinización y la desertificación mediante el monitoreo constante de la conductividad eléctrica (EC) y otras variables clave. Al prevenir daños estructurales en el suelo, se preserva su fertilidad a largo plazo, se mantiene la biodiversidad del ecosistema agrícola y se asegura la sostenibilidad de la producción en el tiempo.
 
-  Busca fomentar prácticas responsables que reduzcan el impacto ambiental, y en este proyecto se aplica al incentivar mejoras en las condiciones laborales y ambientales dentro de las empresas.
-
-- **ODS 13: Acción por el clima**
-
-  Se enfoca en la acción frente al cambio climático, y en este proyecto se relaciona al generar conciencia sobre la contaminación del aire y su impacto en la salud de los trabajadores.
 
 ---
 
@@ -126,9 +128,9 @@ El dispositivo permitirá monitorear el ambiente en tiempo real y advertir sobre
 ---
 
 ## ¿Qué haríamos con la información?
-Identificar si el ambiente laboral es seguro o si existe un riesgo para la salud de los trabajadores. Además, ayudará a tomar decisiones de manera oportuna, como mejorar la ventilación, ajustar las condiciones del espacio o reforzar el uso de equipos de protección, contribuyendo así a la  mejora continua de las condiciones laborales. 
 
-La idea es transformar datos en decisiones que realmente protejan a los trabajadores.
+Los datos de humedad y conductividad (EC) se transmiten vía IoT a una plataforma móvil, donde algoritmos de Machine Learning (redes CNN como VGG16) procesan la información y analizan imágenes para diagnosticar el estado del cultivo en tiempo real. Esto permite optimizar el uso del agua, logrando ahorros de hasta un 30% al evitar el sobre-riego, además de monitorear la salud del suelo mediante la detección temprana de salinidad y sodicidad antes de que generen daños irreversibles. Asimismo, los datos funcionan como indicadores de la presencia de fertilizantes y permiten identificar plagas y enfermedades con una precisión superior al 95%.
+A partir de esta información, se pueden tomar decisiones clave como la programación del riego ajustando la apertura o cierre de válvulas según la capacidad de campo real, la ejecución de lavados de suelo mediante riegos de lixiviación cuando la EC supera los 4 mS/cm, la aplicación de enmiendas como el yeso agrícola ante riesgos de sodicidad, y la implementación de tratamientos focalizados aplicando pesticidas únicamente en las zonas afectadas detectadas por la inteligencia artificial.
 
 ---
 

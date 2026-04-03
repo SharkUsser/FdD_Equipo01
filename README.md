@@ -52,7 +52,8 @@ En consecuencia, la ausencia de herramientas que permitan monitorear de manera p
 
 ---
 
-## Objetivos:
+## Objetivo:
+Como grupo, nuestro objetivo es optimizar el uso del agua de riego en sistemas agrícolas mediante el monitoreo de las condiciones del suelo y del estado de las plantas, con el fin de mantener su adecuado desarrollo y salud, mejorar la toma de decisiones en el manejo del riego, reducir el desperdicio hídrico y prevenir la degradación del suelo.
 
 ---
 

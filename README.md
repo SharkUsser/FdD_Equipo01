@@ -123,7 +123,7 @@ La idea es transformar datos en decisiones que realmente protejan a los trabajad
 
 ---
 
-## Alcence
+## Alcance
 
 ---
 

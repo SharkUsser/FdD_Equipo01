@@ -55,6 +55,14 @@ En consecuencia, la ausencia de herramientas que permitan monitorear de manera p
 ## Objetivo:
 Como grupo, nuestro objetivo es optimizar el uso del agua de riego en sistemas agrícolas mediante el monitoreo de las condiciones del suelo y del estado de las plantas, con el fin de mantener su adecuado desarrollo y salud, mejorar la toma de decisiones en el manejo del riego, reducir el desperdicio hídrico y prevenir la degradación del suelo.
 
+Objetivos específicos:
+
+Medir y registrar la humedad del suelo en intervalos regulares mediante sensores, enviando los datos a una aplicación móvil que permita visualizar los niveles y establecer umbrales para activar o detener el riego.
+
+Analizar el estado fisiológico de las plantas mediante imágenes captadas y procesadas en la aplicación con apoyo de inteligencia artificial, para detectar signos tempranos de estrés hídrico o crecimiento inadecuado.
+
+Diseñar e implementar un sistema automatizado de riego controlado desde la aplicación, que integre los datos del suelo y de las plantas para ajustar la frecuencia y cantidad de agua aplicada, optimizando su uso.
+
 ---
 
 ## ODS en los que nos enfocamos:

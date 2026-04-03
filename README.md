@@ -138,9 +138,7 @@ En este contexto, se plantea como alternativa el desarrollo de una solución tec
 ---
 
 ## Reflexión
-Creemos que muchas veces los problemas ambientales dentro de espacios laborales pasan desapercibidos.
-
-Con este proyecto, buscamos visibilizarlos y proponer una solución que permita actuar a tiempo, antes de que los efectos sean más graves.
+Este proyecto permitió comprender la importancia de usar el agua de manera eficiente en la agricultura, especialmente en contextos donde es un recurso limitado. Asimismo, evidenció que el uso de herramientas tecnológicas puede ayudar a mantener la salud de las plantas y mejorar la toma de decisiones en el riego. Finalmente, resalta la necesidad de integrar sostenibilidad y tecnología para lograr una agricultura más eficiente y responsable.
 
 ---
 

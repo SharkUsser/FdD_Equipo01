@@ -139,6 +139,12 @@ A partir de esta información, se pueden tomar decisiones clave como:
 
 ## Alcance
 
+La optimización del uso del agua en la agricultura requiere sistemas que permitan monitorear con precisión las condiciones del suelo y del cultivo. En este sentido, el proyecto propone integrar sensores y herramientas de análisis para medir variables como la humedad y la salinidad, facilitando una toma de decisiones más eficiente en el riego.
+
+El sistema incorpora modelos de inteligencia artificial para analizar los datos y mejorar la evaluación del estado del cultivo, aumentando la precisión en la gestión hídrica. Está dirigido a usuarios del sector agrícola que buscan reducir el desperdicio de agua y mejorar el manejo del riego.
+
+A corto plazo, se espera optimizar la aplicación del agua mediante datos más precisos. A largo plazo, el proyecto contribuirá a reducir la salinización del suelo y promover una gestión agrícola más sostenible.
+
 ---
 
 ## Conclusión

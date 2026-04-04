@@ -187,7 +187,13 @@ Esta experiencia nos permitió valorar la necesidad de integrar sostenibilidad y
   https://www.mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1993_03.pdf  
 
 - Occupational Safety and Health Administration (OSHA). (2023). *OSHA National News Release*.  
-  https://www.osha.gov/news/newsreleases/osha-national-news-release/20230925  
+  https://www.osha.gov/news/newsreleases/osha-national-news-release/20230925
+
+- FAO. (2024). *Global status of salt-affected soils* – Main report. Rome.  
+  https://doi.org/10.4060/cd3044en
+
+- FAO. (2024). *FAO launches first major global assessment of salt-affected soils in 50 years*  
+  https://www.fao.org/newsroom/detail/fao-launches-first-major-global-assessment-of-salt-affected-soils-in-50-years/en
 
 ---
 

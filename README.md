@@ -129,9 +129,13 @@ El dispositivo permitirá monitorear el ambiente en tiempo real y advertir sobre
 
 ## ¿Qué haríamos con la información?
 
-Los datos de humedad y conductividad (EC) se transmiten vía IoT a una plataforma móvil, donde algoritmos de Machine Learning (redes CNN como VGG16) procesan la información y analizan imágenes para diagnosticar el estado del cultivo en tiempo real. Esto permite optimizar el uso del agua, logrando ahorros de hasta un 30% al evitar el sobre-riego, además de monitorear la salud del suelo mediante la detección temprana de salinidad y sodicidad antes de que generen daños irreversibles. Asimismo, los datos funcionan como indicadores de la presencia de fertilizantes y permiten identificar plagas y enfermedades con una precisión superior al 95%.
+Al obtener la información de humedad y conductividad (EC), estos datos se transmiten vía IoT a una plataforma móvil, donde algoritmos de Machine Learning (redes CNN como VGG16) procesan la información y analizan imágenes para diagnosticar el estado del cultivo en tiempo real. Esto permite optimizar el uso del agua, logrando ahorros de hasta un 30% al evitar el sobre-riego, además de monitorear la salud del suelo mediante la detección temprana de salinidad y sodicidad antes de que generen daños irreversibles. Asimismo, los datos funcionan como indicadores de la presencia de fertilizantes y permiten identificar plagas y enfermedades con una precisión superior al 95%.
 
-A partir de esta información, se pueden tomar decisiones clave como la programación del riego ajustando la apertura o cierre de válvulas según la capacidad de campo real, la ejecución de lavados de suelo mediante riegos de lixiviación cuando la EC supera los 4 mS/cm, la aplicación de enmiendas como el yeso agrícola ante riesgos de sodicidad, y la implementación de tratamientos focalizados aplicando pesticidas únicamente en las zonas afectadas detectadas por la inteligencia artificial.
+A partir de esta información, se pueden tomar decisiones clave como:
+- La programación del riego ajustando la apertura o cierre de válvulas según la capacidad de campo real.
+- La ejecución de lavados de suelo mediante riegos de lixiviación cuando la EC supera los 4 mS/cm.
+- La aplicación de enmiendas como el yeso agrícola ante riesgos de sodicidad.
+- La implementación de tratamientos focalizados aplicando pesticidas únicamente en las zonas afectadas detectadas por la inteligencia artificial.
 
 ---
 

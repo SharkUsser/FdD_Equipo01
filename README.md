@@ -35,15 +35,17 @@ Elegimos este proyecto porque la agricultura en Lima enfrenta un problema real: 
 ---
 
 ## Problemática
-En el Perú, especialmente en la costa como Lima, la actividad agrícola se desarrolla en condiciones de limitada disponibilidad hídrica, lo que hace indispensable un uso eficiente del agua de riego. No obstante, en la práctica, este recurso no siempre se gestiona adecuadamente debido a la falta de monitoreo preciso de las condiciones del suelo, lo que dificulta la toma de decisiones informadas en el manejo agrícola.
 
-Esta situación se evidencia con mayor claridad en la provincia de Huaral, donde se ubica la Estación Experimental Agraria Donoso. En esta zona, los suelos presentan una alta variabilidad en sus propiedades físicas y químicas, incluyendo baja materia orgánica, textura arenosa, pH ligeramente alcalino y presencia de salinidad y sodicidad en determinadas áreas, lo que condiciona la disponibilidad de nutrientes y la retención de humedad (INIA, 2026) . Estas características requieren un manejo diferenciado que actualmente no se aplica de manera adecuada.
 
-Actualmente, el manejo del riego se basa en métodos tradicionales que consideran valores promedio del suelo, sin tomar en cuenta la variabilidad existente dentro del terreno. Como consecuencia, se aplican cantidades de agua que no responden a las necesidades reales del cultivo ni a las condiciones específicas del suelo, generando un uso ineficiente del recurso hídrico.
+En el Perú, especialmente en la costa como Lima, la actividad agrícola se desarrolla en condiciones de limitada disponibilidad de agua, por lo que es fundamental usar este recurso de manera eficiente. Sin embargo, en la práctica, el riego no siempre se gestiona adecuadamente debido a la falta de monitoreo preciso del suelo, lo que dificulta tomar decisiones correctas en el manejo agrícola.
 
-Diversos estudios han demostrado que un manejo inadecuado del riego puede provocar la acumulación de agua en el suelo, el aumento del nivel freático y procesos de salinización, debido a que el agua al evaporarse deja sales en el suelo, afectando directamente el crecimiento de los cultivos (Isidoro, 2011) . Asimismo, el exceso de riego y la falta de drenaje adecuado favorecen la degradación del suelo, reduciendo su capacidad productiva e incluso provocando el abandono de tierras agrícolas en diferentes regiones (Isidoro, 2011) .
+Esta problemática se hace evidente en zonas agrícolas donde los suelos presentan variabilidad en sus características, como baja materia orgánica, presencia de sales y limitada capacidad para retener agua. Estas condiciones influyen directamente en la disponibilidad de nutrientes y en la eficiencia del riego, por lo que requieren un manejo más específico que muchas veces no se aplica.
 
-En consecuencia, la ausencia de herramientas que permitan monitorear de manera precisa las condiciones del suelo y optimizar el uso del agua de riego en zonas como Huaral genera desperdicio de recursos, deterioro del suelo y una disminución en la productividad agrícola, comprometiendo la sostenibilidad de esta actividad en el tiempo.
+Actualmente, el riego suele basarse en métodos tradicionales que consideran valores promedio del suelo, sin tener en cuenta las diferencias dentro del terreno. Esto provoca que se aplique más o menos agua de la necesaria, generando un uso ineficiente del recurso hídrico. Cabe resaltar que, a nivel global, la agricultura consume cerca del 70% del agua dulce disponible, lo que evidencia la importancia de mejorar su gestión (EOS Data Analytics, “Uso del agua en agricultura”).
+
+Diversos estudios señalan que un manejo inadecuado del riego puede provocar la acumulación de sales en el suelo, ya que el agua al evaporarse deja residuos salinos que afectan el crecimiento de los cultivos. De hecho, la FAO indica que la salinización es una de las principales causas de degradación del suelo a nivel mundial, reduciendo su productividad y sostenibilidad (FAO, 2021; Global Assessment of Salt-Affected Soils). Asimismo, el exceso de riego y un drenaje deficiente contribuyen al deterioro progresivo del suelo.
+
+En consecuencia, la falta de herramientas que permitan monitorear de manera precisa las condiciones del suelo y optimizar el uso del agua de riego genera desperdicio de recursos, degradación del suelo y una menor productividad agrícola, poniendo en riesgo la sostenibilidad de esta actividad en el tiempo.
 
 ---
 

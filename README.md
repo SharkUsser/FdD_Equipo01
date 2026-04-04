@@ -89,11 +89,14 @@ Los Objetivos de Desarrollo Sostenible (ODS) son una iniciativa de la Organizaci
 
 ##  Enfoque y sustento 
 
-Este proyecto es importante porque busca mejorar cómo se usa el agua en la agricultura de la costa peruana, donde este recurso es limitado. Actualmente, uno de los principales problemas es que no se monitorea bien el estado del suelo, lo que hace que muchas veces se riegue de más o de menos. Esto no solo desperdicia agua, sino que también va dañando el suelo con el tiempo.
+La agricultura es uno de los pilares del desarrollo económico del país, destacando por su gran diversidad de productos. Pese a esto, surge un problema en la inadecuada utilización de los recursos hídricos, especialmente en la costa peruana donde el agua es limitada. Actualmente, este es uno de los principales problemas, ya que no se monitorea adecuadamente el estado del suelo, lo que provoca que muchas veces se riegue de más o de menos. Esto no solo genera desperdicio de agua, sino que también va dañando el suelo con el tiempo.
 
-Por ejemplo, a nivel mundial, la agricultura utiliza alrededor del 70% del agua dulce disponible, lo que demuestra lo importante que es usar este recurso de manera eficiente (EOS Data Analytics, “Uso del agua en agricultura”). Además, según la FAO, la salinización del suelo —causada en gran parte por un riego inadecuado— es una de las principales formas de degradación del suelo, ya que reduce su capacidad para producir cultivos (FAO, 2021; Global Assessment of Salt-Affected Soils).
+A nivel mundial, la agricultura utiliza aproximadamente el 70% del agua dulce disponible, lo que evidencia la gran presión que ejerce este sector sobre los recursos hídricos y la necesidad de gestionarlos de manera eficiente, especialmente en zonas con escasez de agua (EOS Data Analytics, “Uso del agua en agricultura”). Asimismo, según la FAO, más del 20% de las tierras irrigadas en el mundo se encuentran afectadas por procesos de salinización, los cuales son provocados en gran medida por un riego inadecuado. Esta problemática constituye una de las principales formas de degradación del suelo, ya que disminuye su fertilidad, afecta el crecimiento de los cultivos y reduce significativamente su capacidad productiva (FAO, 2021; Global Assessment of Salt-Affected Soils).
 
-Este problema tiene varios impactos. A nivel ambiental, el exceso de riego puede acumular sales en el suelo y disminuir su fertilidad. También, si el suelo tiene poca materia orgánica, no retiene bien el agua, lo que aumenta el desperdicio. A nivel social, esto afecta la producción agrícola y la seguridad alimentaria. Y a nivel económico, genera más gastos para los agricultores y menores rendimientos.
+Este problema genera diversos impactos que se encuentran estrechamente relacionados entre sí. El uso inadecuado del riego favorece la acumulación de sales en el suelo, lo que reduce progresivamente su fertilidad y afecta su capacidad para sostener cultivos de manera eficiente. Asimismo, cuando el suelo presenta un bajo contenido de materia orgánica, disminuye su capacidad de retener agua y nutrientes, lo que no solo incrementa el desperdicio hídrico, sino que también limita el desarrollo adecuado de las plantas (Labrador, 1993). Con el tiempo, estas condiciones pueden llevar a la degradación del suelo e incluso a la pérdida de áreas productivas.
+
+Esta situación repercute directamente en la producción agrícola, generando inestabilidad en los cultivos y afectando la seguridad alimentaria, especialmente en zonas donde la agricultura es una actividad clave. A su vez, los agricultores se ven obligados a enfrentar mayores costos debido al uso excesivo de agua, la necesidad de aplicar más insumos para recuperar la calidad del suelo y la disminución en los rendimientos. En conjunto, estos efectos evidencian cómo una gestión ineficiente del riego no solo impacta el ambiente, sino también el ámbito social y económico.
+
 Frente a esto, el proyecto propone analizar el suelo de manera más precisa y usar herramientas tecnológicas, como sensores de humedad, que permitan saber exactamente cuándo y cuánto regar. Así, se podrán tomar decisiones más informadas y adaptadas a cada zona del terreno.
 
 Con este proyecto se logrará:
@@ -164,26 +167,27 @@ En este contexto, se plantea como alternativa el desarrollo de una solución tec
 ---
 
 ## Reflexión
-Este proyecto permitió comprender la importancia de usar el agua de manera eficiente en la agricultura, especialmente en contextos donde es un recurso limitado. Asimismo, evidenció que el uso de herramientas tecnológicas puede ayudar a mantener la salud de las plantas y mejorar la toma de decisiones en el riego. Finalmente, resalta la necesidad de integrar sostenibilidad y tecnología para lograr una agricultura más eficiente y responsable.
+A lo largo de este proyecto, logramos comprender la importancia de usar el agua de manera eficiente en la agricultura, especialmente en contextos donde este recurso es limitado. También reconocimos que el uso de herramientas tecnológicas puede marcar una diferencia en la salud de las plantas y en la toma de decisiones relacionadas con el riego. 
+
+Esta experiencia nos permitió valorar la necesidad de integrar sostenibilidad y tecnología para avanzar hacia una agricultura más eficiente y responsable.
 
 ---
 
 ## Referencias
 
+## 📚 Referencias
+
 - Instituto Nacional de Innovación Agraria (INIA). (2026). *Evaluación de la fertilidad de suelos en la Estación Experimental Agraria Donoso*.  
-  http://hdl.handle.net/20.500.12955/3064
+  http://hdl.handle.net/20.500.12955/3064  
 
 - Isidoro, D. (2011). *Minimización de impactos en la agricultura de regadío. Riegos del Alto Aragón*.  
-  http://hdl.handle.net/10532/1606
+  http://hdl.handle.net/10532/1606  
 
-- Ministerio del Ambiente del Perú. (2022). *En distritos de Lima Este y Lima Sur se registra incremento de contaminantes del aire*.  
-  https://www.gob.pe/institucion/minam/noticias/630541-en-distritos-de-lima-este-y-lima-sur-se-registra-incremento-de-contaminantes-del-aire
+- Labrador Moreno, J., y España Secretaría General de Estructuras Agrarias (Ed.). (1993). *La materia orgánica en los sistemas agrícolas: manejo y utilización*.  
+  https://www.mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1993_03.pdf  
 
-- Occupational Safety and Health Administration (OSHA). (2023a). *OSHA National News Release*.  
-  https://www.osha.gov/news/newsreleases/osha-national-news-release/20230609
-
-- Occupational Safety and Health Administration (OSHA). (2023b). *OSHA National News Release*.  
-  https://www.osha.gov/news/newsreleases/osha-national-news-release/20230925
+- Occupational Safety and Health Administration (OSHA). (2023). *OSHA National News Release*.  
+  https://www.osha.gov/news/newsreleases/osha-national-news-release/20230925  
 
 ---
 

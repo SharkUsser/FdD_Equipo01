@@ -72,21 +72,25 @@ Los Objetivos de Desarrollo Sostenible (ODS) son una iniciativa de la Organizaci
 ODS 6: Agua Limpia y Saneamiento
 
   • Definición: Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.
+  
   • Relación: El proyecto contribuye a una gestión más eficiente del agua en la agricultura, que es el sector con mayor consumo hídrico a nivel mundial. Mediante el uso de sensores de humedad y sistemas automatizados, se evita el riego innecesario, se reduce la sobreexplotación de fuentes hídricas y se promueve el uso racional del recurso. Además, ayuda a prevenir la contaminación del agua causada por el exceso de fertilizantes y lixiviación.
 
 ODS 9: Industria, Innovación e Infraestructura
 
   • Definición: Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación.
+  
   • Relación: Este proyecto introduce tecnologías emergentes como el Internet de las Cosas (IoT) y el Deep Learning en el sector agrícola, especialmente en zonas rurales donde el acceso a estas herramientas es limitado. Esto no solo moderniza las prácticas agrícolas, sino que también impulsa la digitalización del campo, mejora la productividad y fortalece la competitividad del sector agroindustrial.
 
 ODS 12: Producción y Consumo Responsables
 
   • Definición: Garantizar modalidades de consumo y producción sostenibles.
+  
   • Relación: La implementación de sensores y análisis inteligente permite optimizar el uso de recursos como el agua, fertilizantes y pesticidas, reduciendo desperdicios y minimizando impactos negativos en el medio ambiente. Esto contribuye a una agricultura más eficiente, con menor huella hídrica y menor contaminación del suelo, promoviendo prácticas responsables a lo largo de toda la cadena productiva.
 
 ODS 15: Vida de Ecosistemas Terrestres
 
   • Definición: Proteger, restaurar y promover el uso sostenible de los ecosistemas terrestres.
+  
   • Relación: El proyecto combate procesos de degradación del suelo como la salinización y la desertificación mediante el monitoreo constante de la conductividad eléctrica (EC) y otras variables clave. Al prevenir daños estructurales en el suelo, se preserva su fertilidad a largo plazo, se mantiene la biodiversidad del ecosistema agrícola y se asegura la sostenibilidad de la producción en el tiempo.
 
 

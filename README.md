@@ -30,7 +30,9 @@ Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemá
 
 ## ¿Por qué este proyecto? 
 
-Elegimos este proyecto porque la agricultura en Lima enfrenta un problema real: el uso ineficiente del agua en un contexto donde este recurso es escaso. Muchas veces no se monitorea adecuadamente el estado del suelo, lo que genera desperdicio de agua, salinización y menor rendimiento en los cultivos. Por eso, nos motivó desarrollar una solución práctica como el uso de sensores de humedad que ayuden a saber cuándo y cuánto regar, permitiendo tomar mejores decisiones, ahorrar agua y aportar a una agricultura más sostenible.
+En el Perú, la agricultura cumple un rol fundamental en el desarrollo del país y destaca por su gran diversidad de cultivos y condiciones climáticas. Sin embargo, pese a estas fortalezas, se enfrenta a un problema real: el uso ineficiente del agua en un contexto donde este recurso es escaso. En muchos casos, no se monitorea adecuadamente el estado del suelo, lo que genera desperdicio de agua, salinización y un menor rendimiento en los cultivos.
+
+Como equipo, nos motivó abordar esta problemática desde una perspectiva práctica y preventiva, proponiendo el uso de sensores de humedad que permitan saber cuándo y cuánto regar. De esta manera, buscamos aportar a una mejor toma de decisiones, optimizar el uso del agua y contribuir a una agricultura más sostenible.
 
 ---
 

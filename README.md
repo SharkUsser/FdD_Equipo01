@@ -86,9 +86,12 @@ Los Objetivos de Desarrollo Sostenible (ODS) son una iniciativa de la Organizaci
 ##  Enfoque y sustento 
 
 Este proyecto es importante porque busca mejorar cómo se usa el agua en la agricultura de la costa peruana, donde este recurso es limitado. Actualmente, uno de los principales problemas es que no se monitorea bien el estado del suelo, lo que hace que muchas veces se riegue de más o de menos. Esto no solo desperdicia agua, sino que también va dañando el suelo con el tiempo.
+
 Por ejemplo, a nivel mundial, la agricultura utiliza alrededor del 70% del agua dulce disponible, lo que demuestra lo importante que es usar este recurso de manera eficiente (EOS Data Analytics, “Uso del agua en agricultura”). Además, según la FAO, la salinización del suelo —causada en gran parte por un riego inadecuado— es una de las principales formas de degradación del suelo, ya que reduce su capacidad para producir cultivos (FAO, 2021; Global Assessment of Salt-Affected Soils).
+
 Este problema tiene varios impactos. A nivel ambiental, el exceso de riego puede acumular sales en el suelo y disminuir su fertilidad. También, si el suelo tiene poca materia orgánica, no retiene bien el agua, lo que aumenta el desperdicio. A nivel social, esto afecta la producción agrícola y la seguridad alimentaria. Y a nivel económico, genera más gastos para los agricultores y menores rendimientos.
 Frente a esto, el proyecto propone analizar el suelo de manera más precisa y usar herramientas tecnológicas, como sensores de humedad, que permitan saber exactamente cuándo y cuánto regar. Así, se podrán tomar decisiones más informadas y adaptadas a cada zona del terreno.
+
 Con este proyecto se logrará:
 - Usar el agua de manera más eficiente, evitando desperdicios.
 - Reducir problemas de salinización y degradación del suelo.

@@ -28,7 +28,7 @@ Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemá
 
 ---
 
-## 🤔¿Por qué este proyecto? 
+## ¿Por qué este proyecto? 
 
 Elegimos este proyecto porque la agricultura en Lima enfrenta un problema real: el uso ineficiente del agua en un contexto donde este recurso es escaso. Muchas veces no se monitorea adecuadamente el estado del suelo, lo que genera desperdicio de agua, salinización y menor rendimiento en los cultivos. Por eso, nos motivó desarrollar una solución práctica como el uso de sensores de humedad que ayuden a saber cuándo y cuánto regar, permitiendo tomar mejores decisiones, ahorrar agua y aportar a una agricultura más sostenible.
 
@@ -83,18 +83,21 @@ Los Objetivos de Desarrollo Sostenible (ODS) son una iniciativa de la Organizaci
 
 ---
 
-## ☝ Enfoque y sustento 💡
-El presente proyecto es relevante porque aborda de manera directa la relación entre el uso del agua de riego y la calidad del suelo en la Estación Experimental Agraria Donoso, un entorno representativo de las condiciones agrícolas de la costa peruana. La falta de control del suelo genera un uso ineficiente del recurso hídrico, lo cual no solo implica desperdicio de agua, sino también un deterioro progresivo de las propiedades del suelo.
+##  Enfoque y sustento 
 
-El proyecto beneficia principalmente a los agricultores de la provincia de Huaral y a otros contextos agrícolas similares, ya que permite mejorar la toma de decisiones mediante el análisis específico del suelo. Esto facilita la implementación de prácticas de riego más precisas, reduciendo costos, optimizando recursos y aumentando la productividad. 
+Este proyecto es importante porque busca mejorar cómo se usa el agua en la agricultura de la costa peruana, donde este recurso es limitado. Actualmente, uno de los principales problemas es que no se monitorea bien el estado del suelo, lo que hace que muchas veces se riegue de más o de menos. Esto no solo desperdicia agua, sino que también va dañando el suelo con el tiempo.
+Por ejemplo, a nivel mundial, la agricultura utiliza alrededor del 70% del agua dulce disponible, lo que demuestra lo importante que es usar este recurso de manera eficiente (EOS Data Analytics, “Uso del agua en agricultura”). Además, según la FAO, la salinización del suelo —causada en gran parte por un riego inadecuado— es una de las principales formas de degradación del suelo, ya que reduce su capacidad para producir cultivos (FAO, 2021; Global Assessment of Salt-Affected Soils).
+Este problema tiene varios impactos. A nivel ambiental, el exceso de riego puede acumular sales en el suelo y disminuir su fertilidad. También, si el suelo tiene poca materia orgánica, no retiene bien el agua, lo que aumenta el desperdicio. A nivel social, esto afecta la producción agrícola y la seguridad alimentaria. Y a nivel económico, genera más gastos para los agricultores y menores rendimientos.
+Frente a esto, el proyecto propone analizar el suelo de manera más precisa y usar herramientas tecnológicas, como sensores de humedad, que permitan saber exactamente cuándo y cuánto regar. Así, se podrán tomar decisiones más informadas y adaptadas a cada zona del terreno.
+Con este proyecto se logrará:
+- Usar el agua de manera más eficiente, evitando desperdicios.
+- Reducir problemas de salinización y degradación del suelo.
+- Mejorar la productividad de los cultivos.
+- Disminuir costos operativos para los agricultores.
+- Tomar decisiones de riego basadas en datos reales del suelo.
+- Promover una agricultura más sostenible y responsable con el medio ambiente.
 
-El impacto de la problemática es significativo y multidimensional. A nivel ambiental, el exceso de riego favorece la acumulación de sales en el suelo, lo cual se evidencia en la alta variabilidad de la conductividad eléctrica (coeficiente de variación superior al 100%), indicando problemas de salinidad en zonas puntuales . Asimismo, el bajo contenido de materia orgánica (1.62%) limita la capacidad del suelo para retener agua, incrementando el desperdicio hídrico y acelerando su degradación .
-
-A nivel social, esta problemática afecta la estabilidad de la producción agrícola y, por ende, la seguridad alimentaria de las comunidades. A nivel económico, genera mayores costos operativos debido al uso ineficiente del agua y la reducción en el rendimiento de los cultivos.
-
-El sustento del proyecto se basa en el análisis de datos reales que evidencian una alta heterogeneidad del suelo en la EEA Donoso, con presencia de salinidad localizada, desbalances químicos y limitaciones en la fertilidad . Frente a ello, el uso de herramientas como la geoestadística y los sistemas de información geográfica permite identificar patrones espaciales y diseñar estrategias de manejo específicas por punto.
-
-En este sentido, el proyecto adopta un enfoque acotado y preciso, centrado en el análisis de un punto específico del terreno, lo que facilita su implementación y refuerza su validez investigativa. Así, se propone una solución integral que combina tecnología, sostenibilidad y análisis científico, contribuyendo a un manejo más eficiente del riego y a la conservación del suelo. 
+En resumen, el proyecto combina tecnología y conocimiento del suelo para dar una solución práctica a un problema real, ayudando a mejorar tanto la producción agrícola como el cuidado de los recursos naturales.
 
 
 ---

@@ -112,42 +112,43 @@ En resumen, el proyecto combina tecnología y conocimiento del suelo para dar un
 ---
 
 ## Nuestra propuesta
+
 Se plantea el desarrollo de un dispositivo inteligente de riego capaz de monitorear en tiempo real las condiciones del suelo y del cultivo, analizar estos datos mediante machine learning y ejecutar acciones automáticas, complementado con una aplicación móvil que optimice la toma de decisiones.
 
 El sistema se basa en tres componentes integrados:
 
-1. Monitoreo del suelo y cultivo
+### 1. Monitoreo del suelo y cultivo
 
 El dispositivo incorpora sensores que miden:
 
-Humedad del suelo (variable principal para riego)
-Conductividad eléctrica (indicador de salinidad)
-pH del suelo (disponibilidad de nutrientes)
-Temperatura y humedad ambiental (evapotranspiración)
+- Humedad del suelo (variable principal para riego)
+- Conductividad eléctrica (indicador de salinidad)
+- pH del suelo (disponibilidad de nutrientes)
+- Temperatura y humedad ambiental (evapotranspiración)
 
 Además, se integran cámaras para capturar imágenes del cultivo y evaluar su estado.
 
-2. Análisis inteligente (Machine Learning)
+### 2. Análisis inteligente con Machine Learning
 
 Los datos recolectados se procesan en una aplicación mediante modelos que permiten:
 
-Detectar patrones de humedad óptima según cultivo
-Identificar estrés hídrico en plantas (a partir de imágenes)
-Predecir cuándo regar y cuánto agua aplicar
+- Detectar patrones de humedad óptima según cultivo
+- Identificar estrés hídrico en plantas (a partir de imágenes)
+- Predecir cuándo regar y cuánto agua aplicar
 
-3. Aplicación móvil
+### 3. Retroalimentación en aplicación móvil
 
 La app cumple funciones clave:
 
-Visualización de datos en tiempo real
-Historial y tendencias
-Recomendaciones basadas en IA
-Configuración de umbrales personalizados
-Notificaciones de mantenimiento y riego
+- Visualización de datos en tiempo real
+- Historial y tendencias
+- Recomendaciones basadas en IA
+- Configuración de umbrales personalizados
+- Notificaciones de mantenimiento y riego
 
 ---
 
-## ¿Qué haríamos con la información?
+### ¿Qué haríamos con la información?
 
 Al obtener la información de humedad y conductividad (EC), estos datos se transmiten vía IoT a una plataforma móvil, donde algoritmos de Machine Learning (redes CNN como VGG16) procesan la información y analizan imágenes para diagnosticar el estado del cultivo en tiempo real. Esto permite optimizar el uso del agua, logrando ahorros de hasta un 30% al evitar el sobre-riego, además de monitorear la salud del suelo mediante la detección temprana de salinidad y sodicidad antes de que generen daños irreversibles. Asimismo, los datos funcionan como indicadores de la presencia de fertilizantes y permiten identificar plagas y enfermedades con una precisión superior al 95%.
 

@@ -109,29 +109,41 @@ Con este proyecto se logrará:
 
 En resumen, el proyecto combina tecnología y conocimiento del suelo para dar una solución práctica a un problema real, ayudando a mejorar tanto la producción agrícola como el cuidado de los recursos naturales.
 
-
 ---
 
 ## Nuestra propuesta
-Nuestra propuesta consiste en crear un dispositivo tecnológico automático que permita monitorear la calidad de aire en un ambiente laboral, detectaremos el material particulado fino (PM2.5) mediante el uso de un sensor PMS5003 Particulate Matter Sensor. 
+Se plantea el desarrollo de un dispositivo inteligente de riego capaz de monitorear en tiempo real las condiciones del suelo y del cultivo, analizar estos datos mediante machine learning y ejecutar acciones automáticas, complementado con una aplicación móvil que optimice la toma de decisiones.
 
-Este sistema permitirá detectar en tiempo real los niveles de partículas en el aire y generar alertas cuando representen un riesgo para la salud. 
+El sistema se basa en tres componentes integrados:
 
-De esta manera, se busca prevenir enfermedades respiratorias y mejorar las condiciones de trabajo mediante el uso de información clara y objetiva.
+1. Monitoreo del suelo y cultivo
 
-<p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Imágenes/ejemplo_prototipo.jpg" />
-  <em>Fuente: ITM (Instituto Tecnológico Metropolitano)</em>
-</p>
+El dispositivo incorpora sensores que miden:
 
-El prototipo estará instalado dentro de un espacio laboral encargado de medir la calidad del aire. 
+Humedad del suelo (variable principal para riego)
+Conductividad eléctrica (indicador de salinidad)
+pH del suelo (disponibilidad de nutrientes)
+Temperatura y humedad ambiental (evapotranspiración)
 
-Este sistema incluye:
-- Un sensor de material particulado PMS5003 Particulate Matter Sensor para medir PM2.5
-- Indicadores visuales que alerten cuando los niveles sean peligrosos
-- Un sistema básico de visualización de datos (pantalla o conexión a una app)
+Además, se integran cámaras para capturar imágenes del cultivo y evaluar su estado.
 
-El dispositivo permitirá monitorear el ambiente en tiempo real y advertir sobre posibles riesgos para la salud.
+2. Análisis inteligente (Machine Learning)
+
+Los datos recolectados se procesan en una aplicación mediante modelos que permiten:
+
+Detectar patrones de humedad óptima según cultivo
+Identificar estrés hídrico en plantas (a partir de imágenes)
+Predecir cuándo regar y cuánto agua aplicar
+
+3. Aplicación móvil
+
+La app cumple funciones clave:
+
+Visualización de datos en tiempo real
+Historial y tendencias
+Recomendaciones basadas en IA
+Configuración de umbrales personalizados
+Notificaciones de mantenimiento y riego
 
 ---
 

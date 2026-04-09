@@ -20,10 +20,10 @@ Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemá
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Lidia.jpg" width="90"/> | **Landa Torres, Lidia** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/Yenifer Loayza Pineda.jpeg" width="90"/> | **Loayza Pineda, Yenifer** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/pellanne-carlos.jpg" width="90"/> | **Pellanne Aro, Carlos** | Diseñador | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/gianella.jpeg" width="90"/> | **Benites Tena, Gianella** | Responsable de documentación y análisis de información | Comunicación científica, redacción técnica, Interpretación de datos ambientales|
+| <img src="/Recursos/Imágenes/Lidia.jpg" width="90"/> | **Landa Torres, Lidia** | Líder del equipo | Innovación social, sostenibilidad, responsabilidad |
+| <img src="/Recursos/Imágenes/Yenifer Loayza Pineda.jpeg" width="90"/> | **Loayza Pineda, Yenifer** | Responsable de investigación | Gestión ambiental, desarrollo comunitario y sostenible , Interpretación de datos ambientales |
+| <img src="/Recursos/Imágenes/pellanne-carlos.jpg" width="90"/> | **Pellanne Aro, Carlos** | Diseñador - Programador | Diseño de prototipos, creatividad aplicada, investidación cientifica, análisis de datos |
+| <img src="/Recursos/Imágenes/gianella.jpeg" width="90"/> | **Benites Tena, Gianella** | Responsable de documentación y análisis de información | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/B819A807-9F5F-43F0-AB15-746606625547_1_201_a.jpeg" width="90"/> | **Delerna Infantes, Anderson** | Programador - Modelador | Programación, análisis de datos, simulación |
 
 ---

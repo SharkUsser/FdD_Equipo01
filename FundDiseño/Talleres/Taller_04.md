@@ -10,6 +10,7 @@ Pellane Aro, Carlos Alfredo
 Profesores  
 Marco Antonio Mugaburu Celi  
 Jose Luiz Da Silva  
+
 **Universidad Peruano Cayetano Heredia**  
 Curso: Fundamentos de Diseño
 

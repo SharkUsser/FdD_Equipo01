@@ -27,7 +27,7 @@ Curso: Fundamentos de Diseño
 
 | RESUMEN | IMÁGENES |
 | :---- | :---- |
-| La invención describe un dispositivo de riego automático que regula la humedad, pH y temperatura del suelo para optimizar el suministro de agua en cultivos. Cuenta con un depósito de agua, un medio capilar que facilita la ascensión de agua, y sensores que monitorean el suelo. Un microcontrolador procesa los datos y acciona válvulas según los umbrales definidos, manteniendo el equilibrio hídrico en la zona radicular. Funciona con energía solar mediante panel, batería y controlador, permitiendo operación autónoma. Incluye una tapa tipo lisímetro, módulos de visualización y comunicación para monitoreo local y remoto. El sistema mejora la eficiencia del riego, reduce pérdidas de agua y mantiene condiciones físico-químicas estables, siendo útil en agricultura y experimentación con mínima intervención. |   |
+| La invención describe un dispositivo de riego automático que regula la humedad, pH y temperatura del suelo para optimizar el suministro de agua en cultivos. Cuenta con un depósito de agua, un medio capilar que facilita la ascensión de agua, y sensores que monitorean el suelo. Un microcontrolador procesa los datos y acciona válvulas según los umbrales definidos, manteniendo el equilibrio hídrico en la zona radicular. Funciona con energía solar mediante panel, batería y controlador, permitiendo operación autónoma. Incluye una tapa tipo lisímetro, módulos de visualización y comunicación para monitoreo local y remoto. El sistema mejora la eficiencia del riego, reduce pérdidas de agua y mantiene condiciones físico-químicas estables, siendo útil en agricultura y experimentación con mínima intervención. | No se encontro imagen  |
 
 🔗[Ver Patente](https://patentscope.wipo.int/search/es/detail.jsf?docId=PE475409654&_cid=P21-MNPAPG-97696-1)
 
@@ -59,7 +59,7 @@ Curso: Fundamentos de Diseño
 
 | RESUMEN | IMÁGENES |
 | :---- | :---- |
-| El sistema describe un mecanismo de riego por goteo alineado fijo que utiliza una manguera equipada con goteros dispuestos alrededor de árboles o plantas. Este sistema incorpora un medio de sujeción conectado a abrazaderas instaladas en la manguera, lo que permite ajustar y asegurar su posición. Además, su diseño posibilita el giro de la manguera alrededor de la planta sin provocar estrangulamientos, garantizando una distribución uniforme del agua. Su objetivo es mejorar la eficiencia del riego localizado y facilitar su adaptación a diferentes tipos de cultivos. |  ![][image2] |
+| El sistema describe un mecanismo de riego por goteo alineado fijo que utiliza una manguera equipada con goteros dispuestos alrededor de árboles o plantas. Este sistema incorpora un medio de sujeción conectado a abrazaderas instaladas en la manguera, lo que permite ajustar y asegurar su posición. Además, su diseño posibilita el giro de la manguera alrededor de la planta sin provocar estrangulamientos, garantizando una distribución uniforme del agua. Su objetivo es mejorar la eficiencia del riego localizado y facilitar su adaptación a diferentes tipos de cultivos. | <img src="/Recursos/Imágenes/Patente3.png" width="90"/>  |
 
 🔗[Ver Patente](https://es.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=es_ES&FT=D&date=20110214&CC=ES&NR=2351902A1&KC=A1)
 

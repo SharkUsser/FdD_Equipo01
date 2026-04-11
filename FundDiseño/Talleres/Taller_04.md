@@ -43,7 +43,7 @@ Curso: Fundamentos de Diseño
 
 | RESUMEN | IMÁGENES |
 | :---- | :---- |
-| El sistema presentado describe una solución inteligente de riego que integra sensores inalámbricos de humedad del suelo y controladores automatizados para optimizar el uso del agua. Este sistema incorpora un módulo de programación inteligente que, mediante reglas predefinidas y aprendizaje automático continuo, ajusta las condiciones de riego según las necesidades del suelo. Además, utiliza inteligencia artificial para mejorar la toma de decisiones, permitiendo un riego automatizado y eficiente. Su diseño busca reducir el consumo de agua, energía y tiempo, generando beneficios tanto para el usuario como para el entorno en general. |   |
+| El sistema presentado describe una solución inteligente de riego que integra sensores inalámbricos de humedad del suelo y controladores automatizados para optimizar el uso del agua. Este sistema incorpora un módulo de programación inteligente que, mediante reglas predefinidas y aprendizaje automático continuo, ajusta las condiciones de riego según las necesidades del suelo. Además, utiliza inteligencia artificial para mejorar la toma de decisiones, permitiendo un riego automatizado y eficiente. Su diseño busca reducir el consumo de agua, energía y tiempo, generando beneficios tanto para el usuario como para el entorno en general. | <img src="/Recursos/Imágenes/Patente2.png" width="90"/>  |
 
 🔗[Ver Patente](https://patents.google.com/patent/US20250048979A1/en)
 

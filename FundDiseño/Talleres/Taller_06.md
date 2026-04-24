@@ -1,7 +1,7 @@
 ## 🚀 Presentación del Proyecto
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1sQNflo6_0epIqc4OVYlsBuBvKEW62-ERdWiUqUd-wMA/edit?tab=t.0" target="_blank">
+  <a href="https://docs.google.com/document/d/1F-rUtN4siC1MLgj3hYKBEHAPO4A_dc9dfYv1meuLcQw/edit?tab=t.0#heading=h.2pex9od9pzzw" target="_blank">
     <img src="https://img.shields.io/badge/Documento-Google%20Docs-green?style=for-the-badge&logo=google-docs">
   </a>
   <a href="https://canva.link/7gyr0cctpvljlwa" target="_blank">

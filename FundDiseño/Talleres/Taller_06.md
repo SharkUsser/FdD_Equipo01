@@ -1,3 +1,18 @@
+## 🚀 Presentación del Proyecto
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1sQNflo6_0epIqc4OVYlsBuBvKEW62-ERdWiUqUd-wMA/edit?tab=t.0" target="_blank">
+    <img src="https://img.shields.io/badge/Documento-Google%20Docs-green?style=for-the-badge&logo=google-docs">
+  </a>
+  <a href="https://canva.link/7gyr0cctpvljlwa" target="_blank">
+    <img src="https://img.shields.io/badge/Presentación-Canva-purple?style=for-the-badge&logo=canva">
+  </a>
+</p>
+
+<p align="center">
+  Accede al documento técnico y a la presentación del proyecto AGRO SMART.
+</p>
+
 # **AGRO SMART** **optimización inteligente del riego agrícola**
 
 ## **1\. Historia**
@@ -11,7 +26,9 @@ Sin embargo, ante este crecimiento, surge una pregunta importante:
 
 Porque crecer no solo es producir más, sino hacerlo de manera eficiente y sostenible.
 
-**2\. Problema**
+--- 
+
+## **2\. Problema**
 
 A pesar de contar con sistemas como riego por gravedad, aspersión y goteo, el uso del agua aún no es completamente eficiente.
 
@@ -32,6 +49,8 @@ Además:
 
 **Problema central:**  
 Uso ineficiente del agua debido a la falta de control y monitoreo en tiempo real del suelo y cultivo.
+
+---
 
 ## **3\. Solución**
 
@@ -62,6 +81,8 @@ Además:
 * Protección del suelo  
 * Mayor productividad agrícola
 
+---
+
 ## **4\. Modelo de negocio**
 
 Agro Smart combina:
@@ -81,6 +102,8 @@ La plataforma permite:
 
 ✔ Enfoque:  
  No solo vendemos un producto, sino una **solución tecnológica escalable y sostenible**.
+
+---
 
 ## **5\. Estrategia**
 
@@ -115,6 +138,8 @@ Resultados obtenidos:
 * Mayor productividad  
 * Agricultura más sostenible
 
+---
+
 ## **7\. Equipo**
 
 Somos un equipo de estudiantes de ingeniería comprometidos con la innovación y sostenibilidad agrícola.
@@ -127,6 +152,8 @@ Contamos con conocimientos en:
 
 ✔ Enfoque:  
  Desarrollar soluciones prácticas, basadas en investigación, con impacto real en el sector agrícola.
+
+---
 
 ## **8\. Propuesta de valor**
 
@@ -145,6 +172,8 @@ Beneficios:
 ✔ Diferencial:  
  Transformamos el riego tradicional en un proceso **inteligente, preciso y sostenible**.
 
+---
+
 ## **9\. Impacto**
 
 Agro Smart contribuye a:
@@ -154,6 +183,8 @@ Agro Smart contribuye a:
 * Mejorar la sostenibilidad del sector
 
 🌱 En un contexto donde el agua es un recurso cada vez más limitado, nuestra solución busca asegurar un crecimiento agrícola responsable.
+
+---
 
 # **📚 Referencias** 
 

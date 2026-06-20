@@ -4,7 +4,7 @@
 # Taller 04
  
 
- ![Logo UPCH](<img src="Recursos/Imágenes/Fotos Adicionales/Logo de la Universidad.jpg" width="90"/> )
+ ![Logo UPCH]( Recursos/Imágenes/Fotos%20Adicionales/Logo%20de%20la%20Univesidad.jpg )
 
 
 **Trabajo presentado por:**  
@@ -40,7 +40,7 @@ Curso: Fundamentos de Diseño
 
 | RESUMEN | IMÁGENES |
 | :---- | :---- |
-| La invención describe un dispositivo de riego automático que regula la humedad, pH y temperatura del suelo para optimizar el suministro de agua en cultivos. Cuenta con un depósito de agua, un medio capilar que facilita la ascensión de agua, y sensores que monitorean el suelo. Un microcontrolador procesa los datos y acciona válvulas según los umbrales definidos, manteniendo el equilibrio hídrico en la zona radicular. Funciona con energía solar mediante panel, batería y controlador, permitiendo operación autónoma. Incluye una tapa tipo lisímetro, módulos de visualización y comunicación para monitoreo local y remoto. El sistema mejora la eficiencia del riego, reduce pérdidas de agua y mantiene condiciones físico-químicas estables, siendo útil en agricultura y experimentación con mínima intervención. | <img src="Recursos/Imágenes/Fotos de patentes/Patente 1.jpeg" width="90"/>  |
+| La invención describe un dispositivo de riego automático que regula la humedad, pH y temperatura del suelo para optimizar el suministro de agua en cultivos. Cuenta con un depósito de agua, un medio capilar que facilita la ascensión de agua, y sensores que monitorean el suelo. Un microcontrolador procesa los datos y acciona válvulas según los umbrales definidos, manteniendo el equilibrio hídrico en la zona radicular. Funciona con energía solar mediante panel, batería y controlador, permitiendo operación autónoma. Incluye una tapa tipo lisímetro, módulos de visualización y comunicación para monitoreo local y remoto. El sistema mejora la eficiencia del riego, reduce pérdidas de agua y mantiene condiciones físico-químicas estables, siendo útil en agricultura y experimentación con mínima intervención. | <img src="/Recursos/Imágenes/Fotos de patentes/Patente1.jpeg" width="90"/>  |
 
 🔗[Ver Patente](https://patentscope.wipo.int/search/es/detail.jsf?docId=PE475409654&_cid=P21-MNPAPG-97696-1)
 

@@ -63,13 +63,14 @@ Los planos técnicos contienen la información dimensional necesaria para la fab
 
 ### Ensamble
 
-El ensamblaje muestra la integración completa de los componentes mecánicos del prototipo, permitiendo verificar la compatibilidad de piezas, distribución interna y funcionalidad general del sistema.
+Primera propuesta de ensamble del módulo mecánico. El enfoque inicial consistió en organizar el gabinete por compartimentos independientes, dedicando un espacio físico separado a cada componente electrónico (batería LiPo, pantalla LCD, módulo relé y etapa de carga/elevador), sin contemplar aún el uso de una placa base donde montar todos los componentes en conjunto.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Definición de un gabinete dividido en compartimentos individuales por módulo (batería, LCD, relé, carga).
+- Integración de la batería LiPo 503450 (1000 mAh) en un compartimento superior dedicado.
+- Ubicación preliminar de la pantalla LCD y el módulo relé en compartimentos laterales independientes.
+- Aún no se definía una placa de montaje común para los componentes; cada uno se alojaba de forma aislada dentro de su propio espacio.
 
 🔗 **[Ver carpeta de ensamble](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_1.0/Onshape/Ensambles)**
 
@@ -130,13 +131,14 @@ Los planos técnicos contienen la información dimensional necesaria para la fab
 
 ### Ensamble
 
-El ensamblaje muestra la integración completa de los componentes mecánicos del prototipo, permitiendo verificar la compatibilidad de piezas, distribución interna y funcionalidad general del sistema.
+Se replanteó la lógica de montaje interno: en lugar de compartimentos separados por módulo, se incorporó una placa simuladora que serviría como base común para todos los componentes electrónicos, eliminando los módulos sueltos definidos en la V1. El ensamble en esta etapa aún no integraba todos los componentes del sistema.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Incorporación de una placa simuladora (representación genérica) como base de montaje para los componentes electrónicos.
+- Eliminación de los compartimentos individuales por módulo definidos en la V1.
+- Reubicación del módulo relé de 2 canales y la pantalla LCD sobre la nueva placa base.
+- Ensamble aún incompleto: faltaban componentes del sistema por integrar sobre la placa.
 
 🔗 **[Ver carpeta de ensamble](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_2.0/Onshape/Ensambles)**
 
@@ -179,8 +181,6 @@ Esta sección contiene los modelos individuales de las piezas diseñadas para el
 
 Esta versión corresponde a una etapa de desarrollo del módulo mecánico del prototipo de riego inteligente. Durante esta iteración se realizaron mejoras en el diseño estructural, distribución de componentes y preparación para la fabricación mediante impresión 3D.
 
-
-
 ## Bocetos
 
 Los bocetos presentan la propuesta de diseño correspondiente a esta versión del prototipo. Cada documento incluye vistas y anotaciones que permiten comprender la evolución del diseño mecánico.
@@ -200,13 +200,14 @@ Los planos técnicos contienen la información dimensional necesaria para la fab
 
 ### Ensamble
 
-El ensamblaje muestra la integración completa de los componentes mecánicos del prototipo, permitiendo verificar la compatibilidad de piezas, distribución interna y funcionalidad general del sistema.
+Se reemplazó la placa simuladora genérica por una placa perforada (perfboard) real importada al modelo, dando un paso hacia una representación más fiel del montaje físico. Se comenzaron a integrar componentes concretos sobre esta placa, aunque el ensamble todavía no incluía todos los elementos del sistema.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Importación de una placa perforada (perfboard) real en reemplazo de la placa simuladora de la V2.
+- Montaje del módulo ESP32 sobre la placa perforada.
+- Integración del módulo relé de 2 canales sobre la nueva placa.
+- Componentes adicionales (sensor de humedad FC-28, soporte de batería, pantalla LCD) aún pendientes de ubicar dentro del ensamble.
 
 🔗 **[Ver carpeta de ensamble](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_3.0/Onshape/Ensamble)**
 
@@ -270,13 +271,13 @@ Los planos técnicos contienen la información dimensional necesaria para la fab
 
 ### Ensamble
 
-El ensamblaje muestra la integración completa de los componentes mecánicos del prototipo, permitiendo verificar la compatibilidad de piezas, distribución interna y funcionalidad general del sistema.
+Se completó el conjunto de componentes internos sobre la placa perforada, alcanzando una distribución funcional consolidada dentro del gabinete. A partir de la retroalimentación del docente, se identificó la necesidad de incorporar elementos adicionales para el manejo del agua de riego, así como los componentes que operan fuera de la caja (sensores externos), los cuales no habían sido considerados hasta esta etapa.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Consolidación de todos los componentes internos sobre la placa perforada: módulo ESP32, módulo relé de 2 canales, pantalla LCD y conector de alimentación.
+- Observación del docente: se requiere incorporar un reservorio/recipiente (retoplas) para el agua de riego.
+- Identificación de la necesidad de modelar los componentes externos a la caja (sensores que sobresalen del gabinete), los cuales solo se habían considerado en su parte interna hasta esta versión.
 
 🔗 **[Ver carpeta de ensamble](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_4.0/Onshape/Ensamble)**
 
@@ -319,8 +320,6 @@ Esta sección contiene los modelos individuales de las piezas diseñadas para el
 
 Esta versión corresponde a una etapa de desarrollo del módulo mecánico del prototipo de riego inteligente. Durante esta iteración se realizaron mejoras en el diseño estructural, distribución de componentes y preparación para la fabricación mediante impresión 3D.
 
-
-
 ## Bocetos
 
 Los bocetos presentan la propuesta de diseño correspondiente a esta versión del prototipo. Cada documento incluye vistas y anotaciones que permiten comprender la evolución del diseño mecánico.
@@ -340,13 +339,15 @@ Los planos técnicos contienen la información dimensional necesaria para la fab
 
 ### Ensamble
 
-El ensamblaje muestra la integración completa de los componentes mecánicos del prototipo, permitiendo verificar la compatibilidad de piezas, distribución interna y funcionalidad general del sistema.
+Versión consolidada del módulo mecánico, en la que se integraron los componentes externos identificados en la V4: prensaestopas (cable glands) para el paso de cables, sondas y sensores que sobresalen del gabinete hacia el sistema de riego, interruptor de encendido/apagado accesible desde el exterior, y el sensor de conductividad (TDS) con su carcasa protectora. Esta versión une el diseño interno (placa con componentes) con las interfaces externas necesarias para el funcionamiento real del sistema de riego.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Incorporación de prensaestopas (cable glands) para el paso sellado de cables y sondas hacia el exterior del gabinete.
+- Acople de las sondas/sensores externos (temperatura, humedad de suelo) que sobresalen de la caja.
+- Integración del sensor de conductividad (TDS) con su carcasa tipo malla en la parte externa.
+- Incorporación del interruptor de encendido/apagado accesible desde el exterior del gabinete.
+- Unificación completa de los componentes internos (placa, ESP32, relé, LCD) con los elementos externos del sistema de riego.
 
 🔗 **[Ver carpeta de ensamble](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_Final/Onshape/Ensamble)**
 

@@ -1,10 +1,10 @@
- 
+
 <div align="center">
 
+ 
 # Taller 04
  
-
-![Logo UPCH](Recursos/Imágenes/Fotos%20Adicionales/LogodelaUnivesidad.jpg)
+<img src="/Recursos/Imágenes/Fotos Adicionales/Logo.jpg" width="240"/>
 
 
 **Trabajo presentado por:**  
@@ -17,14 +17,14 @@ Pellane Aro, Carlos Alfredo
 **Profesores**  
 Marco Antonio Mugaburu Celi  
 Jose Luiz Da Silva  
-Domingo Vladimir Flores Robles Alberto
+Domingo Vladimir Flores Robles Alberto  
 Victor Alberto Huanambal Sovero  
-Jhomer Rodrigo Contreras Paucca 
-Harry Anderson Rivera Tito 
-Renzo Jose Chan Rios 
-Julissa Elvira Venancio Huerta 
-Diana Sheyla Sandoval Eustaquio 
-Cristhian Gustavo Jacinto Calderon
+Jhomer Rodrigo Contreras Paucca  
+Harry Anderson Rivera Tito  
+Renzo Jose Chan Rios  
+Julissa Elvira Venancio Huerta  
+Diana Sheyla Sandoval Eustaquio  
+Cristhian Gustavo Jacinto Calderon  
 
 
 **Universidad Peruano Cayetano Heredia**  

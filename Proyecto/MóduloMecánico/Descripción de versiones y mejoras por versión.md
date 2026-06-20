@@ -71,7 +71,7 @@ El ensamblaje muestra la integración completa de los componentes mecánicos del
 - Cambio 2.
 - Cambio 3.
 
-🔗 **[Ver carpeta de ensamble](https://github.com/SharkUsser/FdD_Equipo01/tree/main/FundDise%C3%B1o/Entregables/3er_Entregable%20Trabajado/M%C3%B3duloMec%C3%A1nico/Onshape/Planos)**
+🔗 **[Ver carpeta de ensamble](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_1.0/Onshape/Ensambles)**
 
 🔗 **[Abrir modelo en Onshape](https://cad.onshape.com/documents/7030c5235228178de3d660d3/w/a4388209fd1fcbc84d7d1932/e/820ef67ac40d4f114fcb5abb)**
 

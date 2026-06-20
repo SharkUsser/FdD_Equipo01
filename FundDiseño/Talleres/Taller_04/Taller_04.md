@@ -4,7 +4,7 @@
 # Taller 04
  
 
- ![Logo UPCH]( Recursos/Imágenes/Fotos%20Adicionales/Logo%20de%20la%20Univesidad.jpg )
+![Logo UPCH](Recursos/Imágenes/Fotos%20Adicionales/LogodelaUnivesidad.jpg)
 
 
 **Trabajo presentado por:**  

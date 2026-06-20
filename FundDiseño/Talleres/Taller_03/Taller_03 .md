@@ -1,17 +1,39 @@
-**Taller 3**  
-![][image1]  
-Trabajo presentado por:  
+<div align="center">
+
+ 
+# Taller 03
+ 
+<img src="/Recursos/Imágenes/Fotos Adicionales/Logo.jpg" width="240"/>
+
+
+**Trabajo presentado por:**  
 Benites Tena, Gianella Yamile  
 Delerna Infantes, Anderson Josue  
 Landa Torres, Lidia Desairi  
-Loayza Pineda, Yenifer
+Loayza Pineda, Yenifer  
 
-Profesores  
+
+**Profesores**  
 Marco Antonio Mugaburu Celi  
-Jose Luiz Da Silva
+Jose Luiz Da Silva  
+Domingo Vladimir Flores Robles Alberto  
+Victor Alberto Huanambal Sovero  
+Jhomer Rodrigo Contreras Paucca  
+Harry Anderson Rivera Tito  
+Renzo Jose Chan Rios  
+Julissa Elvira Venancio Huerta  
+Diana Sheyla Sandoval Eustaquio  
+Cristhian Gustavo Jacinto Calderon  
+
 
 **Universidad Peruano Cayetano Heredia**  
 Curso: Fundamentos de Diseño
+
+
+</div>
+
+--- 
+
 
 1. **INTRODUCCIÓN:**
 

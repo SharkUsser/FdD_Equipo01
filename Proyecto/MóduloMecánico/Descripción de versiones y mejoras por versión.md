@@ -80,13 +80,15 @@ Primera propuesta de ensamble del módulo mecánico. El enfoque inicial consisti
 
 ### Partes
 
-Esta sección contiene los modelos individuales de las piezas diseñadas para el prototipo en formato STL, listos para su fabricación mediante impresión 3D.
+Primera propuesta del gabinete mecánico. El diseño contemplaba un cuerpo prismático con tapa plana rectangular removible, interior dividido en compartimentos separados para cada componente electrónico (batería, relé, LCD), rejillas de ventilación en los laterales, y 4 patas tipo estaca compuestas por dos piezas separadas (palo + punta). La pantalla LCD se ubicó en la cara frontal en posición horizontal recta.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Diseño inicial del gabinete con tapa plana rectangular.
+- Interior con compartimentos individuales separados para batería LiPo, módulo relé y pantalla LCD.
+- Rejillas de ventilación modeladas en las caras laterales del gabinete.
+- Patas tipo estaca de dos piezas independientes (palo y punta separados).
+- Pantalla LCD integrada en la cara frontal en posición recta sin inclinación.
 
 🔗 **[Ver carpeta de partes](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_1.0/Onshape/Partes)**
 
@@ -148,13 +150,14 @@ Se replanteó la lógica de montaje interno: en lugar de compartimentos separado
 
 ### Partes
 
-Esta sección contiene los modelos individuales de las piezas diseñadas para el prototipo en formato STL, listos para su fabricación mediante impresión 3D.
+Se rediseñó el interior del gabinete eliminando los compartimentos separados para liberar el espacio interno y permitir el montaje sobre una placa base común. La tapa mantuvo su forma plana rectangular pero se le incorporó un reborde de encaje con la caja. La pantalla LCD se inclinó levemente hacia el usuario para mejorar su visibilidad. Se mantuvieron las patas tipo estaca de dos piezas y las rejillas laterales.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Eliminación de los compartimentos internos separados → interior abierto para montaje sobre placa base.
+- Incorporación de reborde/relieve en la tapa para encaje con el cuerpo de la caja.
+- Inclinación de la pantalla LCD para mejorar la visibilidad del usuario.
+- Se mantiene la tapa plana rectangular y las patas de dos piezas de la V1.
 
 🔗 **[Ver carpeta de partes](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_2.0/Onshape/Partes)**
 
@@ -217,13 +220,16 @@ Se reemplazó la placa simuladora genérica por una placa perforada (perfboard) 
 
 ### Partes
 
-Esta sección contiene los modelos individuales de las piezas diseñadas para el prototipo en formato STL, listos para su fabricación mediante impresión 3D.
+Se realizaron mejoras estructurales significativas en las patas y en la organización interna del cableado. Las patas pasaron de ser dos piezas separadas a una pieza integrada (palo y punta en una sola parte), mejorando la resistencia mecánica. Se agregaron separadores y guías para cables en el borde superior interior del gabinete. La tapa cambia de plana a piramidal, diseño que se mantiene hasta la versión final: la forma en punta favorece la escorrentía del agua de lluvia, evitando acumulación sobre el gabinete, e incorpora un reborde de encaje y el nombre "AgroSmart" en relieve.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Patas rediseñadas como pieza única integrada (palo y punta unidos), en reemplazo de las patas de dos piezas de V1 y V2.
+- Incorporación de bases cuadradas planas en las patas para mayor estabilidad en el suelo.
+- Adición de separadores y guías de cables en el borde superior interior del gabinete.
+- Rediseño completo de la tapa: de plana rectangular a forma piramidal para escorrentía de lluvia.
+- Incorporación de reborde de encaje en la tapa para ajuste con el cuerpo del gabinete.
+- Texto "AgroSmart" en relieve sobre la tapa piramidal.
 
 🔗 **[Ver carpeta de partes](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_3.0/Onshape/Partes)**
 
@@ -287,13 +293,17 @@ Se completó el conjunto de componentes internos sobre la placa perforada, alcan
 
 ### Partes
 
-Esta sección contiene los modelos individuales de las piezas diseñadas para el prototipo en formato STL, listos para su fabricación mediante impresión 3D.
+Versión donde se consolidaron todos los elementos de montaje y acceso externo del gabinete. Se incorporó un compartimento dedicado para el sensor de temperatura en la parte exterior, perforaciones y soportes internos para fijación de la placa perforada mediante tornillos, un compartimento interno para la batería, una apertura en la cara posterior para el interruptor de encendido/apagado, y un orificio pequeño en la parte lateral para el conector de carga USB Tipo-C. El modelado del gabinete quedó definido en esta versión y se mantuvo sin cambios en la Versión Final; las únicas modificaciones posteriores correspondieron al ensamble.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Incorporación de compartimento exterior dedicado para el sensor de temperatura (DHT22).
+- Adición de compartimento interno para alojamiento fijo de la batería LiPo.
+- Incorporación de soportes y orificios para tornillos de fijación de la placa perforada.
+- Apertura en la cara posterior para el interruptor on/off accesible desde el exterior.
+- Orificio pequeño en la cara lateral para el conector de carga USB Tipo-C.
+- Orificios circulares en la cara posterior para paso de cables de sensores externos.
+- Diseño del gabinete definido como definitivo; la Versión Final no presenta cambios en las partes, solo en el ensamble.
 
 🔗 **[Ver carpeta de partes](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_4.0/Onshape/Partes)**
 
@@ -357,13 +367,13 @@ Versión consolidada del módulo mecánico, en la que se integraron los componen
 
 ### Partes
 
-Esta sección contiene los modelos individuales de las piezas diseñadas para el prototipo en formato STL, listos para su fabricación mediante impresión 3D.
+Las partes de la Versión Final son idénticas a las de la V4.0. No se realizaron modificaciones en el modelado del gabinete ni de sus componentes estructurales. Los cambios de esta versión corresponden exclusivamente al ensamble, donde se integraron los componentes externos (prensaestopas, sondas, sensor TDS e interruptor) al modelo completo del sistema.
 
 #### Cambios realizados en esta versión
 
-- Cambio 1.
-- Cambio 2.
-- Cambio 3.
+- Sin cambios en las partes respecto a la V4.0.
+- El gabinete, la tapa piramidal, las patas y todos los elementos estructurales se mantienen idénticos.
+- Las modificaciones de esta versión corresponden únicamente al ensamble (integración de componentes externos).
 
 🔗 **[Ver carpeta de partes](https://github.com/SharkUsser/FdD_Equipo01/tree/main/Proyecto/M%C3%B3duloMec%C3%A1nico/V_Final/Onshape/Partes)**
 

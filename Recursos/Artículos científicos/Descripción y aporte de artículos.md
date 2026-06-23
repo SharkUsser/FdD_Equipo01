@@ -3,14 +3,14 @@
 ## Descripción
 
 En esta sección se presentan los artículos científicos utilizados como sustento técnico para el desarrollo del proyecto. Cada artículo aporta información relevante para la selección de tecnologías, el diseño del sistema y la validación de las decisiones de ingeniería implementadas.
-
-<a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Art%C3%ADculos%20cient%C3%ADficos/Art%C3%ADculoCient%C3%ADfico_01.pdf">
-  <img src="https://img.shields.io/badge/Artículo%201-Consultar-blue?style=for-the-badge">
-</a>
-
-<a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Art%C3%ADculos%20cient%C3%ADficos/Art%C3%ADculoCient%C3%ADfico_02.pdf">
-  <img src="https://img.shields.io/badge/Artículo%202-Consultar-green?style=for-the-badge">
-</a>
+<p align="center">
+    <a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Art%C3%ADculos%20cient%C3%ADficos/Art%C3%ADculoCient%C3%ADfico_01.pdf">
+    <img src="https://img.shields.io/badge/Artículo%201-Consultar-blue?style=for-the-badge">
+    </a>
+    <a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Art%C3%ADculos%20cient%C3%ADficos/Art%C3%ADculoCient%C3%ADfico_02.pdf">
+     <img src="https://img.shields.io/badge/Artículo%202-Consultar-green?style=for-the-badge">
+    </a>
+</p>
 
 ---
 

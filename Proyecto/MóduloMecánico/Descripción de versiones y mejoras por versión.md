@@ -41,7 +41,7 @@ Para cada versión se presentan los bocetos, ensamblajes CAD, partes modeladas y
 
 ## Descripción
 
-Esta versión corresponde a una etapa de desarrollo del módulo mecánico del prototipo de riego inteligente. Durante esta iteración se realizaron mejoras en el diseño estructural, distribución de componentes y preparación para la fabricación mediante impresión 3D.
+Esta versión corresponde a la propuesta inicial del módulo mecánico del prototipo AgroSmart, desarrollada a partir de la semana 9 del curso. El equipo partió de un concepto de gabinete compartimentado, donde cada componente electrónico (batería, relé, pantalla LCD) tenía un espacio físico independiente dentro de la caja. Si bien el diseño estableció la forma general del gabinete y el sistema de patas tipo estaca para instalación en el suelo, aún no contemplaba una placa base común para el montaje de los componentes ni los requerimientos de acceso externo del sistema.
 
 
 ## Bocetos
@@ -98,13 +98,7 @@ Primera propuesta del gabinete mecánico. El diseño contemplaba un cuerpo prism
 
 ## Conclusión de la V_01
 
-✅ Bocetos actualizados.
-
-✅ Ensamble desarrollado.
-
-✅ Partes modeladas.
-
-✅ Planos técnicos generados.
+Esta primera versión permitió establecer la forma general del gabinete y la lógica de instalación en campo mediante patas tipo estaca. Sin embargo, el diseño por compartimentos separados resultó poco flexible para integrar los componentes sobre una base común, lo que motivó la reestructuración del interior en la siguiente versión.
 
 ---
 ---
@@ -113,7 +107,7 @@ Primera propuesta del gabinete mecánico. El diseño contemplaba un cuerpo prism
 
 ## Descripción
 
-Esta versión corresponde a una etapa de desarrollo del módulo mecánico del prototipo de riego inteligente. Durante esta iteración se realizaron mejoras en el diseño estructural, distribución de componentes y preparación para la fabricación mediante impresión 3D.
+A partir de la retroalimentación recibida, el equipo replanteó la organización interna del gabinete, eliminando los compartimentos individuales y adoptando una placa base simuladora como superficie de montaje común para todos los componentes electrónicos. Este cambio representó un giro conceptual importante en el diseño: se pasó de un gabinete con espacios fijos por módulo a uno con un interior abierto y flexible. Adicionalmente se mejoraron detalles de la tapa (incorporación de reborde de encaje) y la pantalla LCD se inclinó para optimizar la visibilidad del usuario. El ensamble en esta etapa aún estaba incompleto, con varios componentes pendientes de integrar.
 
 ## Bocetos
 
@@ -167,13 +161,7 @@ Se rediseñó el interior del gabinete eliminando los compartimentos separados p
 
 ## Conclusión de la V_02
 
-✅ Bocetos actualizados.
-
-✅ Ensamble desarrollado.
-
-✅ Partes modeladas.
-
-✅ Planos técnicos generados.
+La incorporación de la placa base simuladora como superficie de montaje común representó una mejora significativa en la organización interna del gabinete. No obstante, al tratarse de una representación genérica, el ensamble no reflejaba con fidelidad las dimensiones reales de los componentes, lo que se corrigió en la siguiente versión con la importación de una placa perforada real.
 
 ---
 ---
@@ -182,7 +170,7 @@ Se rediseñó el interior del gabinete eliminando los compartimentos separados p
 
 ## Descripción
 
-Esta versión corresponde a una etapa de desarrollo del módulo mecánico del prototipo de riego inteligente. Durante esta iteración se realizaron mejoras en el diseño estructural, distribución de componentes y preparación para la fabricación mediante impresión 3D.
+Esta versión consolidó mejoras tanto en el ensamble como en el modelado de las partes. Se reemplazó la placa simuladora por una placa perforada (perfboard) real importada al modelo, logrando una representación más fiel del montaje físico. En cuanto a las partes, las patas pasaron de ser elementos de dos piezas a una pieza integrada, mejorando su resistencia estructural, y se incorporaron guías y separadores internos para el ordenamiento del cableado. El cambio más destacado fue el rediseño completo de la tapa: de forma plana a piramidal, con reborde de encaje y el nombre "AgroSmart" en relieve, decisión que se mantuvo hasta la versión final por su funcionalidad ante condiciones climáticas de lluvia.
 
 ## Bocetos
 
@@ -239,13 +227,7 @@ Se realizaron mejoras estructurales significativas en las patas y en la organiza
 
 ## Conclusión de la V_03
 
-✅ Bocetos actualizados.
-
-✅ Ensamble desarrollado.
-
-✅ Partes modeladas.
-
-✅ Planos técnicos generados.
+La integración de la placa perforada real y el rediseño de las patas como pieza única elevaron la fidelidad del modelo respecto al prototipo físico esperado. El rediseño de la tapa a forma piramidal constituyó una decisión de diseño definitiva, orientada a la resistencia climática del gabinete en campo. Sin embargo, aún faltaba integrar todos los componentes electrónicos sobre la placa y definir los accesos externos del gabinete.
 
 ---
 ---
@@ -254,7 +236,7 @@ Se realizaron mejoras estructurales significativas en las patas y en la organiza
 
 ## Descripción
 
-Esta versión corresponde a una etapa de desarrollo del módulo mecánico del prototipo de riego inteligente. Durante esta iteración se realizaron mejoras en el diseño estructural, distribución de componentes y preparación para la fabricación mediante impresión 3D.
+Esta versión, presentada en la semana 13, fue la más completa hasta el momento y la que se llevó a fabricación física mediante impresión 3D. A partir de la retroalimentación del docente, se identificaron dos aspectos pendientes: la necesidad de incorporar un reservorio para el agua de riego y la integración de los componentes externos al gabinete (sensores que operan fuera de la caja). En cuanto al modelado de partes, se definieron todos los accesos y soportes del gabinete: compartimento para el sensor de temperatura, alojamiento interno para la batería, soportes para fijación de la placa perforada, apertura para el interruptor y orificio para el conector USB Tipo-C. El modelo de partes quedó definido en esta versión como definitivo.
 
 
 
@@ -313,14 +295,7 @@ Versión donde se consolidaron todos los elementos de montaje y acceso externo d
 
 ## Conclusión de la V_04
 
-✅ Bocetos actualizados.
-
-✅ Ensamble desarrollado.
-
-✅ Partes modeladas.
-
-✅ Planos técnicos generados.
-
+La V4 representó la versión más madura del diseño mecánico y fue la única llevada a fabricación física mediante impresión 3D. La retroalimentación del docente permitió identificar dos elementos no contemplados hasta esta etapa: el reservorio de agua y los componentes externos del sistema, cuya integración al modelo se abordó en la Versión Final. El modelado del gabinete quedó consolidado y no requirió modificaciones posteriores.
 ---
 ---
 
@@ -328,7 +303,7 @@ Versión donde se consolidaron todos los elementos de montaje y acceso externo d
 
 ## Descripción
 
-Esta versión corresponde a una etapa de desarrollo del módulo mecánico del prototipo de riego inteligente. Durante esta iteración se realizaron mejoras en el diseño estructural, distribución de componentes y preparación para la fabricación mediante impresión 3D.
+La Versión Final incorporó los comentarios recibidos tras la presentación de la V4. El modelado de las partes se mantuvo sin cambios respecto a la versión anterior, dado que el gabinete ya estaba correctamente definido. Los cambios se concentraron en el ensamble: se integraron los componentes externos del sistema (prensaestopas para paso de cables, sondas de sensores, sensor de conductividad TDS con carcasa protectora e interruptor on/off), completando así la representación del prototipo en su conjunto, tanto en su parte interna como en su interfaz con el entorno de cultivo.
 
 ## Bocetos
 
@@ -383,10 +358,4 @@ Las partes de la Versión Final son idénticas a las de la V4.0. No se realizaro
 
 ## Conclusión de la V_Final
 
-✅ Bocetos actualizados.
-
-✅ Ensamble desarrollado.
-
-✅ Partes modeladas.
-
-✅ Planos técnicos generados.
+La Versión Final consolidó el diseño mecánico completo de AgroSmart, integrando por primera vez los componentes externos al ensamble y unificando la representación interna y externa del sistema. Al mantener el modelado de partes de la V4 sin modificaciones, se evidencia que el diseño estructural del gabinete alcanzó su madurez en la versión anterior, siendo la Versión Final el resultado de la integración total del sistema en el entorno CAD.

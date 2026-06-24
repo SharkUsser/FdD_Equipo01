@@ -20,11 +20,11 @@ Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemá
 
 | Foto | Nombre | Rol | Intereses | Correo | 
 |------|--------|-----|-----------| ------ | 
-| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Lidia Landa_formal.png" width="90"/> | **Landa Torres, Lidia** | Líder del equipo - Gestión de proyecto tecnológico y ambiental | Innovación social, sostenibilidad, responsabilidad | lidia.landa@upch.pe | 
-| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Yenifer Loayza.png" width="90"/> | **Loayza Pineda, Yenifer** | Especialista en investigación ambiental y análisis de datos | Gestión ambiental, desarrollo comunitario y sostenible , Interpretación de datos ambientales | yenifer.loayza@upch.pe | 
-| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Carlos Pellanne.png" width="90"/> | **Pellanne Aro, Carlos** | Diseñador de prototipo y desarrollador de sistemas | Diseño de prototipos, creatividad aplicada, investidación cientifica, análisis de datos | carlos.pellanne@upch.pe | 
-| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Gianella Benites_formal.png" width="90"/> | **Benites Tena, Gianella** | Especialista en documentación técnica y comunicación científica | Comunicación científica, redacción técnica | gianella.benites.t@upch.pe | 
-| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Anderson Delerna.png" width="90"/> | **Delerna Infantes, Anderson** | Modelador de sistemas y analista de simulación | Programación, análisis de datos, simulación | anderson.delerna@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Lidia Landa_formal.png" /> | **Landa Torres, Lidia** | Líder del equipo - Gestión de proyecto tecnológico y ambiental | Innovación social, sostenibilidad, responsabilidad | lidia.landa@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Yenifer Loayza.png" /> | **Loayza Pineda, Yenifer** | Especialista en investigación ambiental y análisis de datos | Gestión ambiental, desarrollo comunitario y sostenible , Interpretación de datos ambientales | yenifer.loayza@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Carlos Pellanne.png" /> | **Pellanne Aro, Carlos** | Diseñador de prototipo y desarrollador de sistemas | Diseño de prototipos, creatividad aplicada, investidación cientifica, análisis de datos | carlos.pellanne@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Gianella Benites_formal.png" /> | **Benites Tena, Gianella** | Especialista en documentación técnica y comunicación científica | Comunicación científica, redacción técnica | gianella.benites.t@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Anderson Delerna.png" /> | **Delerna Infantes, Anderson** | Modelador de sistemas y analista de simulación | Programación, análisis de datos, simulación | anderson.delerna@upch.pe | 
 
 ---
 

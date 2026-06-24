@@ -4,21 +4,20 @@
 
 En esta sección se presentan las patentes analizadas como referencia para el desarrollo del proyecto. Cada patente aporta soluciones tecnológicas relacionadas con sistemas de riego, automatización, monitoreo de variables agrícolas y optimización del uso de recursos hídricos, permitiendo identificar características y funcionalidades relevantes para el diseño del prototipo.
 
-<a href="#patente-1">
-  <img src="https://img.shields.io/badge/Patente%201-Consultar-blue?style=for-the-badge">
-</a>
-
-<a href="#patente-2">
-  <img src="https://img.shields.io/badge/Patente%202-Consultar-green?style=for-the-badge">
-</a>
-
-<a href="#patente-3">
-  <img src="https://img.shields.io/badge/Patente%203-Consultar-orange?style=for-the-badge">
-</a>
-
-<a href="#patente-4">
-  <img src="https://img.shields.io/badge/Patente%204-Consultar-red?style=for-the-badge">
-</a>
+<p align="center">
+    <a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/US20250048979A1.pdf">
+     <img src="https://img.shields.io/badge/Patente%201-Consultar-blue?style=for-the-badge">
+    </a>
+    <a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/PE20260366A1.pdf">
+    <img src="https://img.shields.io/badge/Patente%202-Consultar-green?style=for-the-badge">
+    </a>
+    <a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/CN201674848U.pdf">
+    <img src="https://img.shields.io/badge/Patente%203-Consultar-orange?style=for-the-badge">
+    </a>
+    <a href="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/ES2351902A1.pdf">
+     <img src="https://img.shields.io/badge/Patente%204-Consultar-red?style=for-the-badge">
+    </a>
+</p>
 
 ---
 
@@ -26,8 +25,8 @@ En esta sección se presentan las patentes analizadas como referencia para el de
 
 ### Título
 
-### **Irrigation System, Irrigation Sensor and Smart Scheduling for Irrigation, Processes, and Methods of Use**
-*Sistema de riego, sensor de riego y programación inteligente para riego, procesos y métodos de uso*
+### **US20250048979A1: Irrigation System, Irrigation Sensor and Smart Scheduling for Irrigation, Processes, and Methods of Use**
+*US20250048979A1: Sistema de riego, sensor de riego y programación inteligente para riego, procesos y métodos de uso*
 
 ### Descripción
 
@@ -48,18 +47,18 @@ Es un sistema de riego automatizado que utiliza sensores de humedad multinivel (
 
 ### Título
 
-### **Dispositivo de Riego Automático con Control de Humedad, pH y Temperatura**
+### **PE20260366A1: Dispositivo de Riego Automático con Control de Humedad, pH y Temperatura**
 
 ### Descripción
 
 El invento consiste en un dispositivo electrónico-mecánico de riego automatizado e inteligente diseñado para optimizar el uso del agua en la agricultura. El sistema opera mediante un bloque de captación con sensores que miden continuamente la humedad, la temperatura y el pH del suelo, enviando estos datos físico-químicos en tiempo real a un microcontrolador central. Este componente procesa la información y ejecuta un algoritmo programado para activar de forma autónoma bombas o electroválvulas de riego solo cuando las variables salen de los rangos ideales del cultivo. Finalmente, el dispositivo cuenta con un módulo de comunicación inalámbrica que transmite todas las métricas recolectadas a una aplicación móvil, permitiendo al usuario monitorear e interactuar con el estado del suelo de manera remota.
 
 ### Aporte al Proyecto
-Este antecedente técnico aporta directamente a nuestro desarrollo en los siguientes puntos:Validación del Hardware: 
-- Nos da el plano técnico y la certeza de que la integración de sensores (humedad/temperatura/pH) con un microcontrolador y actuadores hidráulicos es una arquitectura totalmente viable y funcional.  
+Este antecedente técnico aporta directamente a nuestro desarrollo en los siguientes puntos:
+- Validación del Hardware: Nos da el plano técnico y la certeza de que la integración de sensores (humedad/temperatura/pH) con un microcontrolador y actuadores hidráulicos es una arquitectura totalmente viable y funcional.  
 - Sustento del Enfoque Multivariable: Justifica técnicamente por qué no basta con medir solo el agua; el control del pH y la temperatura es crítico para garantizar la absorción de nutrientes y la salud de la planta.
 - Respaldo de Viabilidad: Funciona como un argumento sólido ante jurados o evaluaciones académicas, demostrando que nuestro proyecto está alineado con soluciones tecnológicas patentables y vigentes en el sector agroindustrial.  
-- Punto de Partida para Innovar: Al conocer el alcance de su hardware y su app móvil, nos permite enfocarnos en mejorar el software, optimizar la eficiencia de las estructuras hidráulicas o añadir funciones que la patente no cubre
+- Punto de Partida para Innovar: Al conocer el alcance de su hardware y su app móvil, nos permite enfocarnos en mejorar el software, optimizar la eficiencia de las estructuras hidráulicas o añadir funciones que la patente no cubre.
 
 📄 [Ver patente completa](https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/PE20260366A1.pdf)
 
@@ -69,7 +68,8 @@ Este antecedente técnico aporta directamente a nuestro desarrollo en los siguie
 
 ### Título
 
-### **Dispositivo automático de riego por goteo solar**
+### **CN201674848U: 太阳能自动滴灌装置**
+*Dispositivo automático de riego por goteo solar*
 
 ### Descripción
 
@@ -83,7 +83,7 @@ El invento consiste en un dispositivo automático de riego por goteo alimentado 
 - Criterio de Umbrales Físicos Cuantificables: Nos da métricas específicas y ensayadas en el estado de la técnica (como el umbral de $<$ 40% de humedad en suelo para activar el riego y $<$ 80% de humedad ambiental) que sirven como línea base para calibrar nuestros propios sensores.
 
 📄 [Ver patente completa](https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/CN201674848U.pdf)  
-📄 [Ver patente completa_traducida](LINK_PATENTE_3)
+📄 [Ver patente completa_traducida](https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/CN201674848U_Traduccion_Espanol.pdf)
 
 ---
 
@@ -91,16 +91,16 @@ El invento consiste en un dispositivo automático de riego por goteo alimentado 
 
 ### Título
 
-**TÍTULO DE LA PATENTE**
+### **ES2351902A1: Sistema de riego por goteo alineado fijo**
 
 ### Descripción
 
-Breve descripción de la patente, indicando el problema que busca resolver, los componentes principales del sistema y el funcionamiento general de la solución propuesta.
+La invención describe un sistema de distribución para riego por goteo diseñado para resolver el desplazamiento e inestabilidad de las mangueras en el terreno agrícola. Mecánicamente, el sistema consta de una manguera de conducción equipada con goteros, a la cual se le instalan abrazaderas fijas en puntos estratégicos. De estas abrazaderas nacen componentes de sujeción flexibles (como cuerdas, cintas elásticas o bridas) encargados de abrazar de manera directa y firme el tronco de cada planta o árbol. La configuración geométrica de este acoplamiento está diseñada de tal forma que permite que la manguera rodee o gire parcialmente en torno a la base vegetal garantizando la fijación del punto de goteo, pero evitando estrictamente cualquier estrangulamiento o colapso en la sección transversal del conducto que impida el paso del flujo hidráulico.
 
 ### Aporte al Proyecto
 
-- Aporte 1.
-- Aporte 2.
-- Aporte 3.
+- Estabilidad del Bulbo de Raíces y Eficiencia Hídrica: Al fijar mecánicamente el gotero respecto al tronco, se asegura que el agua impacte siempre exactamente en la misma zona del suelo. Para AgroSmart, esto optimiza la lectura de nuestros sensores de suelo, ya que el bulbo húmedo no se desplazará y los datos de humedad serán constantes y precisos.  
+- Protección del Conducto Hidráulico (Anti-estrangulamiento): La patente valida el uso de un sistema de abrazaderas y bridas que guían la manguera sin aplastarla. Esto nos da una solución de diseño de bajo costo para el montaje en campo de nuestras estructuras de riego, impidiendo pérdidas de carga o caídas de presión por dobleces accidentales.  
+- Reducción de Mantenimiento Físico: Al quedar la manguera alineada de manera fija con los árboles, se elimina la necesidad de reacomodar manualmente las líneas de riego tras labores agrícolas, robusteciendo la propuesta de valor de automatización total de nuestro proyecto.
 
-📄 [Ver patente completa](LINK_PATENTE_4)
+📄 [Ver patente completa](https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Patentes/ES2351902A1.pdf)

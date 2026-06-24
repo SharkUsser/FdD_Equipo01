@@ -113,69 +113,62 @@ En resumen, el proyecto combina tecnología y conocimiento del suelo para dar un
 
 ## Nuestra propuesta
 
-Se plantea el desarrollo de un dispositivo inteligente de riego capaz de monitorear en tiempo real las condiciones del suelo y del cultivo, analizar estos datos mediante machine learning y ejecutar acciones automáticas, complementado con una aplicación móvil que optimice la toma de decisiones.
+Se desarrolló un dispositivo inteligente de monitoreo y riego por goteo orientado al cultivo de arándanos en Huaral, Perú. El sistema es capaz de medir en tiempo real las condiciones del suelo, del agua de riego y del ambiente, procesar estos datos mediante un microcontrolador ESP32 y ejecutar acciones automáticas de riego, complementado con una pantalla LCD para visualización local de los datos.
 
-El sistema se basa en tres componentes integrados:
+El sistema se basa en tres componentes integrados:   
+### 1. Monitoreo del suelo, agua y ambiente
 
-### 1. Monitoreo del suelo y cultivo
+El dispositivo incorpora sensores que miden:    
+- Humedad del suelo (FC-28)
+- Conductividad eléctrica del agua de riego, indicador de salinidad del agua antes de llegar al cultivo (TDS sensor)
+- Temperatura y humedad ambiental (DHT11)
 
-El dispositivo incorpora sensores que miden:
+### 2. Control automatizado del riego
 
-- Humedad del suelo (variable principal para riego)
-- Conductividad eléctrica (indicador de salinidad)
-- pH del suelo (disponibilidad de nutrientes)
-- Temperatura y humedad ambiental (evapotranspiración)
+Los datos recolectados son procesados por el ESP32, que permite:   
+- Comparar los valores medidos con umbrales definidos para el cultivo de arándanos
+- Activar o detener la electrobomba de riego por goteo mediante un módulo relé de 2 canales
+- Mostrar los datos en tiempo real en una pantalla LCD I2C
 
-Además, se integran cámaras para capturar imágenes del cultivo y evaluar su estado.
+### 3. Sistema de energía autónomo
 
-### 2. Análisis inteligente con Machine Learning
+El prototipo opera de manera autónoma mediante:
 
-Los datos recolectados se procesan en una aplicación mediante modelos que permiten:
-
-- Detectar patrones de humedad óptima según cultivo
-- Identificar estrés hídrico en plantas (a partir de imágenes)
-- Predecir cuándo regar y cuánto agua aplicar
-
-### 3. Retroalimentación en aplicación móvil
-
-La app cumple funciones clave:
-
-- Visualización de datos en tiempo real
-- Historial y tendencias
-- Recomendaciones basadas en IA
-- Configuración de umbrales personalizados
-- Notificaciones de mantenimiento y riego
+- Batería Litio recargable con módulo cargador TP4056 (entrada USB Tipo-C)
+- Elevador de tensión para garantizar el suministro estable de 5V al sistema
+- Interruptor general para encendido y apagado del dispositivo
 
 ---
 
 ### ¿Qué haríamos con la información?
 
-Al obtener la información de humedad y conductividad (EC), estos datos se transmiten vía IoT a una plataforma móvil, donde algoritmos de Machine Learning (redes CNN como VGG16) procesan la información y analizan imágenes para diagnosticar el estado del cultivo en tiempo real. Esto permite optimizar el uso del agua, logrando ahorros de hasta un 30% al evitar el sobre-riego, además de monitorear la salud del suelo mediante la detección temprana de salinidad y sodicidad antes de que generen daños irreversibles. Asimismo, los datos funcionan como indicadores de la presencia de fertilizantes y permiten identificar plagas y enfermedades con una precisión superior al 95%.
+Al obtener los datos de humedad del suelo, conductividad eléctrica del agua de riego y temperatura/humedad ambiental, estos son procesados en tiempo real por el ESP32 y visualizados en la pantalla LCD integrada en el gabinete del prototipo. Esto permite al agricultor conocer de manera inmediata el estado del suelo y del agua de riego para tomar decisiones informadas.
 
-A partir de esta información, se pueden tomar decisiones clave como:
-- La programación del riego ajustando la apertura o cierre de válvulas según la capacidad de campo real.
-- La ejecución de lavados de suelo mediante riegos de lixiviación cuando la EC supera los 4 mS/cm.
-- La aplicación de enmiendas como el yeso agrícola ante riesgos de sodicidad.
-- La implementación de tratamientos focalizados aplicando pesticidas únicamente en las zonas afectadas detectadas por la inteligencia artificial.
+A partir de esta información, el sistema permite:
+
+- Activar o detener automáticamente el riego por goteo según los niveles de humedad del suelo medidos por el sensor FC-28.
+- Monitorear la conductividad eléctrica del agua de riego mediante el sensor TDS, para detectar niveles elevados de salinidad en el agua antes de que llegue al cultivo, previniendo daños en los arándanos.
+- Registrar las condiciones ambientales de temperatura y humedad como variables complementarias para una mejor interpretación del estado del cultivo.
+- Optimizar el uso del agua aplicando únicamente la cantidad necesaria según las condiciones reales del suelo, evitando el sobre-riego y el desperdicio hídrico.
 
 ---
 
 ## Alcance
 
-La optimización del uso del agua en la agricultura requiere sistemas que permitan monitorear con precisión las condiciones del suelo y del cultivo. En este sentido, el proyecto propone integrar sensores y herramientas de análisis para medir variables como la humedad y la salinidad, facilitando una toma de decisiones más eficiente en el riego.
+La optimización del uso del agua en el cultivo de arándanos en Huaral requiere sistemas que permitan monitorear con precisión las condiciones del suelo, del agua de riego y del ambiente en tiempo real. En este sentido, el proyecto desarrolló un prototipo físico funcional que integra un sensor de humedad del suelo (FC-28), un sensor de conductividad eléctrica del agua de riego (TDS) y un sensor de temperatura y humedad ambiental (DHT11), todos controlados por un microcontrolador ESP32, para facilitar una toma de decisiones más eficiente en el manejo del riego por goteo.
 
-El sistema incorpora modelos de inteligencia artificial para analizar los datos y mejorar la evaluación del estado del cultivo, aumentando la precisión en la gestión hídrica. Está dirigido a usuarios del sector agrícola que buscan reducir el desperdicio de agua y mejorar el manejo del riego.
+El sistema cuenta con un gabinete diseñado y fabricado mediante impresión 3D en material PETG, que aloja todos los componentes electrónicos y permite la instalación en campo mediante patas tipo estaca. Está dirigido a agricultores del sector que buscan reducir el desperdicio de agua y mejorar el manejo del riego de forma automatizada y accesible.
 
-A corto plazo, se espera optimizar la aplicación del agua mediante datos más precisos. A largo plazo, el proyecto contribuirá a reducir la salinización del suelo y promover una gestión agrícola más sostenible.
+A corto plazo, el prototipo permite optimizar la aplicación del agua mediante datos precisos del suelo y del agua de riego en tiempo real. A largo plazo, el proyecto busca contribuir a reducir la salinización, prolongar la vida productiva del terreno y promover una gestión agrícola más sostenible en zonas de escasa disponibilidad hídrica como la costa peruana.
 
 ---
 
 ## Conclusión
-El análisis del riego agrícola en la costa peruana, específicamente en Huaral, evidencia que la falta de monitoreo detallado del suelo limita significativamente la eficiencia en el uso del agua y el manejo adecuado de los cultivos. La variabilidad de las propiedades del suelo, como la salinidad, la baja materia orgánica y la capacidad de retención de humedad, requiere estrategias más precisas que las actualmente empleadas.
+El desarrollo del proyecto AgroSmart evidenció que el monitoreo preciso de las condiciones del suelo y del agua de riego es clave para mejorar la eficiencia del riego en el cultivo de arándanos en Huaral. La variabilidad de propiedades como la humedad del suelo y la salinidad del agua requiere estrategias más específicas que las empleadas en métodos tradicionales, los cuales no permiten responder a las necesidades reales de cada zona del terreno.
 
-El uso de métodos tradicionales basados en promedios no permite responder a las necesidades específicas de cada zona del terreno, lo que genera un uso ineficiente del agua y contribuye a la degradación del suelo y a la disminución de la productividad agrícola. Esta situación pone en evidencia la necesidad de implementar soluciones que permitan obtener información más precisa y en tiempo real sobre las condiciones del suelo.
+A través del diseño e implementación de un prototipo funcional, el equipo logró integrar sensores de humedad del suelo, conductividad eléctrica del agua de riego y temperatura/humedad ambiental en un sistema automatizado de riego por goteo, controlado por un ESP32 y alojado en un gabinete fabricado mediante impresión 3D. Este sistema permite tomar decisiones de riego basadas en datos reales, reducir el desperdicio hídrico y prevenir daños al cultivo por agua con niveles elevados de salinidad.
 
-En este contexto, se plantea como alternativa el desarrollo de una solución tecnológica orientada al monitoreo del suelo y la optimización del riego, la cual será definida en función de los aportes del equipo en las siguientes etapas del proyecto. Esta propuesta buscará mejorar la toma de decisiones en el manejo agrícola, promoviendo un uso más eficiente de los recursos y contribuyendo a la sostenibilidad del sistema productivo.
+Esta experiencia nos permitió valorar la importancia de integrar sostenibilidad, ingeniería y tecnología para avanzar hacia una agricultura más eficiente, responsable y adaptada a las condiciones del contexto peruano.
 
 ---
 

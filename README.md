@@ -10,7 +10,7 @@ Somos el **Equipo 01** del curso **Fundamentos de Diseño 2026-1**, conformado p
 Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemáticas reales del sector agrícola en el Perú, específicamente relacionadas con el uso eficiente del agua y el manejo del suelo. A través de este proyecto, buscamos proponer alternativas innovadoras que permitan mejorar el monitoreo de las condiciones del suelo, optimizar el riego y contribuir a una agricultura más sostenible y productiva.
 
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Im%C3%A1genes/WhatsApp%20Image%202026-03-19%20at%2012.13.21%20PM.jpeg" />
+<img width="1408" height="768" alt="imagen_alumnos" src="https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Im%C3%A1genes/Fotos%20del%20Grupo/Fotos%20Grupales/Foto%20Grupal_formal.jpeg" />
   <em>Figura 1. Fotografía del equipo 01</em>
 </p>
 
@@ -18,13 +18,13 @@ Nuestro propósito es desarrollar soluciones tecnológicas aplicadas a problemá
 
 ## 👥 Integrantes del Equipo  
 
-| Foto | Nombre | Rol | Intereses |
-|------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Lidia.jpg" width="90"/> | **Landa Torres, Lidia** | Líder del equipo - Gestión de proyecto tecnológico y ambiental | Innovación social, sostenibilidad, responsabilidad |
-| <img src="/Recursos/Imágenes/Yenifer Loayza Pineda.jpeg" width="90"/> | **Loayza Pineda, Yenifer** | Especialista en investigación ambiental y análisis de datos | Gestión ambiental, desarrollo comunitario y sostenible , Interpretación de datos ambientales |
-| <img src="/Recursos/Imágenes/pellanne-carlos.jpg" width="90"/> | **Pellanne Aro, Carlos** | Diseñador de prototipo y desarrollador de sistemas | Diseño de prototipos, creatividad aplicada, investidación cientifica, análisis de datos |
-| <img src="/Recursos/Imágenes/gianella.jpeg" width="90"/> | **Benites Tena, Gianella** | Especialista en documentación técnica y comunicación científica | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/B819A807-9F5F-43F0-AB15-746606625547_1_201_a.jpeg" width="90"/> | **Delerna Infantes, Anderson** | Modelador de sistemas y analista de simulación | Programación, análisis de datos, simulación |
+| Foto | Nombre | Rol | Intereses | Correo | 
+|------|--------|-----|-----------| ------ | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Lidia Landa_formal.png" width="90"/> | **Landa Torres, Lidia** | Líder del equipo - Gestión de proyecto tecnológico y ambiental | Innovación social, sostenibilidad, responsabilidad | lidia.landa@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Yenifer Loayza.png" width="90"/> | **Loayza Pineda, Yenifer** | Especialista en investigación ambiental y análisis de datos | Gestión ambiental, desarrollo comunitario y sostenible , Interpretación de datos ambientales | yenifer.loayza@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Carlos Pellanne.png" width="90"/> | **Pellanne Aro, Carlos** | Diseñador de prototipo y desarrollador de sistemas | Diseño de prototipos, creatividad aplicada, investidación cientifica, análisis de datos | carlos.pellanne@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Gianella Benites_formal.png" width="90"/> | **Benites Tena, Gianella** | Especialista en documentación técnica y comunicación científica | Comunicación científica, redacción técnica | gianella.benites.t@upch.pe | 
+| <img src="/Recursos/Imágenes/Fotos del Grupo/Fotos individuales/Anderson Delerna.png" width="90"/> | **Delerna Infantes, Anderson** | Modelador de sistemas y analista de simulación | Programación, análisis de datos, simulación | anderson.delerna@upch.pe | 
 
 ---
 

@@ -87,22 +87,3 @@ El ZL6 es un datalogger inalámbrico diseñado para la adquisición, almacenamie
 
 ---
 
-# Producto 4
-
-### Nombre del Producto
-
-### **Vegetronix VH400 – Sensor de Humedad del Suelo**
-
-### Descripción
-
-El sensor VH400 de Vegetronix permite medir con precisión el contenido volumétrico de agua en el suelo mediante una salida de voltaje proporcional a la humedad detectada. Presenta bajo consumo energético, rápida respuesta, resistencia al agua y una construcción robusta que facilita su uso continuo en aplicaciones agrícolas y sistemas automatizados de riego.
-
-### Aporte al Proyecto
-
-- Sirvió como referencia para la selección y funcionamiento de sensores de humedad del suelo.
-- Permitió comprender los principios de medición de la humedad utilizados en sistemas de riego inteligente.
-- Proporcionó criterios para la ubicación y operación de sensores en la zona radicular de las plantas.
-- Sustentó la importancia de obtener mediciones precisas para automatizar el riego.
-- Contribuyó a la definición de las variables de monitoreo empleadas en el proyecto.
-
-📄 [Ver brochure](https://github.com/SharkUsser/FdD_Equipo01/blob/main/Recursos/Productos%20comerciales/Brochure%20Producto_04%20Vegetronix.pdf)
